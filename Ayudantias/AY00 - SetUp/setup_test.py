@@ -26,7 +26,7 @@ try:
             "[PROBLEMA] La versión de Python para Linux debe ser superior o igual a 3.5.0")
     # git
     if sp.call(["git", "--version"]) != 0:
-        raise Exception("[PROBLEMA] Git no instalado correctamente.")
+        raise Exception("[PROBLEMA] Git no fue instalado correctamente.")
     # numpy
     import numpy
     # matplotlib
