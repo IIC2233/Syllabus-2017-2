@@ -10,11 +10,11 @@ import platform
 
 try:
     welcome_text = ("Este script revisará que tengas correctamente instalados"
-                    "Python, Git, numpy, matplotlib y PyQt5. En caso de no"
-                    "tener instalada alguna parte, recuerda consultar la wiki"
-                    "del Syllabus para encontrar instrucciones de cómo"
-                    "lograrlo. También puedes preguntar en las issues del"
-                    "Syllabus por si necesitas ayuda.\n")
+                    " Python, Git, numpy, matplotlib y PyQt5. En caso de no"
+                    " tener instalada alguna parte, recuerda consultar la wiki"
+                    " del Syllabus para encontrar instrucciones de cómo"
+                    " lograrlo. También puedes preguntar en las issues del"
+                    " Syllabus por ayuda.\n")
     print(welcome_text)
     # Python
     if platform.system() in ("Windows", "Darwin"):
