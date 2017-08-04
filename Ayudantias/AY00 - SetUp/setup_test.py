@@ -18,10 +18,10 @@ try:
     print(welcome_text)
     # Python
     if platform.system() in ("Windows", "Darwin"):
-        if sys.version_info.major != 3 and sys.version_info.minor < 6:
+        if sys.version_info.major != 3 or sys.version_info.minor < 6:
             raise Exception(
                 "[PROBLEMA] La versión de Python debe ser superior o igual a 3.6.0")
-    elif sys.version_info.major != 3 and sys.version_info.minor < 5:
+    elif sys.version_info.major != 3 or sys.version_info.minor < 5:
         raise Exception(
             "[PROBLEMA] La versión de Python para Linux debe ser superior o igual a 3.5.0")
     # git
