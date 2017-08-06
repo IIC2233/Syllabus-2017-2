@@ -47,7 +47,7 @@ else:
     msg = QMessageBox()
     msg.setIcon(QMessageBox.Information)
     msg.setText("¡Felicidades!")
-    msg.setInformativeText("Todo pareciera estar bien instalado 👍🏼")
+    msg.setInformativeText("Todo pareciera estar bien instalado.")
     msg.setWindowTitle("IIC2233")
     msg.show()
     sys.exit(app.exec_())
