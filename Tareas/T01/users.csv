@@ -1,0 +1,31 @@
+orders: list;birthday: string;username: string;name: string;lastname: string
+38:11:6:56:44;1990-10-24;tcgarrido;Tanya;Garrido
+42;1990-02-17;Arcoirisky;Jessica;Hormazabal
+41;1997-09-26;entamburini;Enzo;Tamburini
+0;1992-04-01;jtagle2;Joaquín;Tagle
+4:14:89:24;1991-11-12;cilopez;Camilo;López
+77:19:71:96:12;1994-07-27;nfbalbontin;Nicolás;Balbontín
+;1997-09-09;fdominguezclaro;Felipe;Dominguez
+72;1992-01-13;jnlarrain;Jose Manuel;Larraín
+66:93:46:1:17;1990-04-03;chapito96;Santiago;Torres
+;1996-12-11;egromero;Erick;Romero
+9:74:78;1992-09-03;FernandoPieressa;Fernando;Pieressa
+26:80:5:88:87;1996-12-30;KnowYourselves;Raúl;Álvarez
+57:49:35;1997-05-07;fnquinteros;Felipe;Quinteros
+13:68:76:28;1992-10-21;stephichau;Stephanie;Chau
+33:86;1996-03-29;flobarrios;Florencia;Barrios
+;1996-10-17;andresfdezc;Andrés;Fernández
+8:73:3:21:90;1992-02-20;akaminetzkyp;Alejandro;Kaminetzky
+37:48:52:30:97;1994-07-25;ifcarrera;Isaac;Carrera
+;1997-10-15;jorgeriesco;Jorge;Riesco
+16:61:7:75:92;1993-10-27;Iqacevedo;Ignacio;Acevedo
+81:20:67:60;1995-12-31;hernan4444;Hernán;Valdivieso
+25:45:32;1996-04-28;vijuarez;Vicente;Juárez
+31:91;1992-01-01;hanavarrete;Hugo;Navarrete
+64:63;1990-08-26;GustavPrudencio;Gustavo;Prudencio
+83:59;1991-01-01;sguerra2;Sebastián;Guerra
+34;1997-06-26;TomasSalvadores;Tomas;Salvadores
+70;1996-11-25;ofvera;Octavio;Vera
+15;1992-12-07;pcsalvo;Paula;Salvo
+47:51;1992-10-22;fringlesinthestreet;Benjamín;Cárcamo
+65:55:40:50:58;1996-02-18;sebacruzd;Sebastián;Cruz
