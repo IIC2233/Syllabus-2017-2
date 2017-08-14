@@ -67,10 +67,6 @@ def __generate_random_date_and_match():
     return str(start_date_1), str(start_date_2), str(match_date)
 
 
-def __generate_random_password():
-    return ''.join(random.choices(string, k=8))
-
-
 def create_users():
     attribute = ["name: string", "lastname: string", "username: string",
                  "birthday: string", "orders: list"]
@@ -122,7 +118,7 @@ def create_orders():
         date_created_1, date_created_2, date_match = __generate_random_date_and_match()
         amount = str(round(random.uniform(1, 300), 1))
         price = str(round(random.uniform(1, 300), 1))
-        type_ = random.choice(["ask", "bird"])
+        type_ = random.choice(["ask", "bid"])
         ticket = "".join(random.sample(simbolos_, 2))
 
         auxiliar_bool = random.choice([True, False])
@@ -130,7 +126,7 @@ def create_orders():
         if auxiliar_bool and i < len(number_orders)-2:# Si hay match
             orders.append([number_orders[i], date_created_1, date_match, amount, price, type_, ticket])
             if type_ == "ask":
-                type_ = "bird"
+                type_ = "bid"
             else:
                 type_ = "ask"
             orders.append([number_orders[i+1], date_created_2, date_match, amount, price, type_, ticket])
@@ -158,5 +154,5 @@ def create_database():
 
 if __name__ == '__main__':
     create_orders()
-    create_users()
+    #create_users()
     create_currencies()
