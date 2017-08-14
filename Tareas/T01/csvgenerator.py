@@ -138,7 +138,7 @@ def create_orders():
     random.shuffle(orders)
     orders.insert(0, orders_attribute)
     order_id, date_created, date_match, amount,price, type_, ticket = zip(*orders)
-    orders = [order_id, date_created, date_match, amount, type_, ticket]
+    orders = [order_id, date_created, date_match, amount, price, type_, ticket]
     random.shuffle(orders)
 
     with open("orders.csv", mode="w", encoding="UTF-8") as file:
@@ -155,4 +155,4 @@ def create_database():
 if __name__ == '__main__':
     create_orders()
     #create_users()
-    create_currencies()
+    #create_currencies()
