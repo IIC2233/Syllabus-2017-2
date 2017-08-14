@@ -95,7 +95,7 @@ def create_users():
 def create_currencies():
     currencies_attributes = ["name: string", "symbol: string"]
     currencies = [currencies_attributes]
-    for money, simbolos in zip(simbolos_, monedas):
+    for simbolos, money in zip(simbolos_, monedas):
         currencies.append([money, simbolos])
 
     money, simbolos = zip(*currencies)
@@ -154,5 +154,5 @@ def create_database():
 
 if __name__ == '__main__':
     create_orders()
-    #create_users()
-    #create_currencies()
+    create_users()
+    create_currencies()

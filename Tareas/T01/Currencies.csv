@@ -1,8 +1,8 @@
 name: string;symbol: string
-KAM;Kamas
-SIM;Simoleon
-RIN;Rings
-WUB;Wubba lubba dub dub
-NEC;nebcoins
-RUP;Rupees
-BAN;Banana
+Kamas;KAM
+Simoleon;SIM
+Rings;RIN
+Wubba lubba dub dub;WUB
+nebcoins;NEC
+Rupees;RUP
+Banana;BAN
