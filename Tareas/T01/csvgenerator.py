@@ -110,7 +110,7 @@ def create_currencies():
 def create_orders():
 
     orders_attribute = ["order_id: int", "date_created: string", "date_match: string",
-                        "amount: float", "price: float", "type: string", "ticket: string"]
+                        "amount: float", "price: float", "type: string", "ticker: string"]
 
     orders = []
     i= 0
@@ -119,26 +119,26 @@ def create_orders():
         amount = str(round(random.uniform(1, 300), 1))
         price = str(round(random.uniform(1, 300), 1))
         type_ = random.choice(["ask", "bid"])
-        ticket = "".join(random.sample(simbolos_, 2))
+        ticker = "".join(random.sample(simbolos_, 2))
 
         auxiliar_bool = random.choice([True, False])
 
         if auxiliar_bool and i < len(number_orders)-2:# Si hay match
-            orders.append([number_orders[i], date_created_1, date_match, amount, price, type_, ticket])
+            orders.append([number_orders[i], date_created_1, date_match, amount, price, type_, ticker])
             if type_ == "ask":
                 type_ = "bid"
             else:
                 type_ = "ask"
-            orders.append([number_orders[i+1], date_created_2, date_match, amount, price, type_, ticket])
+            orders.append([number_orders[i+1], date_created_2, date_match, amount, price, type_, ticker])
             i += 1
         else:
-            orders.append([number_orders[i], date_created_1, "", amount, price, type_, ticket])
+            orders.append([number_orders[i], date_created_1, "", amount, price, type_, ticker])
         i += 1
 
     random.shuffle(orders)
     orders.insert(0, orders_attribute)
-    order_id, date_created, date_match, amount,price, type_, ticket = zip(*orders)
-    orders = [order_id, date_created, date_match, amount, price, type_, ticket]
+    order_id, date_created, date_match, amount,price, type_, ticker = zip(*orders)
+    orders = [order_id, date_created, date_match, amount, price, type_, ticker]
     random.shuffle(orders)
 
     with open("orders.csv", mode="w", encoding="UTF-8") as file:
