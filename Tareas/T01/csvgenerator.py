@@ -55,16 +55,15 @@ def __generate_random_birthday():
     return str(start_date + dt.timedelta(days=random.randint(0, days)))
 
 
-def __generate_random_date_and_match():
-    start_date = dt.date(1997, 1, 1)
+def __generate_random_date_and_match(start_date):
     end_date = dt.date(2017, 8, 12)
     days = (end_date-start_date).days
-    start = random.randint(0, days-10)
-    start_2 = random.randint(0, days - 10)
+    start = random.randint(0, days//20 + 2)
+    start_2 = random.randint(0, days//20 + 2)
     start_date_1 = start_date + dt.timedelta(days=start)
-    start_date_2 = start_date + dt.timedelta(days=start_2)
+    start_date_2 = start_date + dt.timedelta(days=min(start, start_2))
     match_date = start_date + dt.timedelta(days=random.randint(max(start, start_2), days))
-    return str(start_date_1), str(start_date_2), str(match_date)
+    return start_date_1, start_date_2, str(match_date)
 
 
 def create_users():
@@ -113,32 +112,33 @@ def create_orders():
                         "amount: float", "price: float", "type: string", "ticker: string"]
 
     orders = []
-    i= 0
+    i = 0
+    date_created_2 = dt.date(1997, 1, 1)
     while i < len(number_orders):
-        date_created_1, date_created_2, date_match = __generate_random_date_and_match()
+        date_created_1, date_created_2, date_match = __generate_random_date_and_match(date_created_2)
         amount = str(round(random.uniform(1, 300), 1))
         price = str(round(random.uniform(1, 300), 1))
-        type_ = random.choice(["ask", "bid"])
-        ticker = "".join(random.sample(simbolos_, 2))
+        type_ = random.choice(["ask", "bird"])
+        ticket = "".join(random.sample(simbolos_, 2))
 
         auxiliar_bool = random.choice([True, False])
 
-        if auxiliar_bool and i < len(number_orders)-2:# Si hay match
-            orders.append([number_orders[i], date_created_1, date_match, amount, price, type_, ticker])
+        if auxiliar_bool and i < len(number_orders) - 2:  # Si hay match
+            orders.append([number_orders[i], str(date_created_1), date_match, amount, price, type_, ticket])
             if type_ == "ask":
-                type_ = "bid"
+                type_ = "bird"
             else:
                 type_ = "ask"
-            orders.append([number_orders[i+1], date_created_2, date_match, amount, price, type_, ticker])
+            orders.append([number_orders[i + 1], str(date_created_2), date_match, amount, price, type_, ticket])
             i += 1
         else:
-            orders.append([number_orders[i], date_created_1, "", amount, price, type_, ticker])
+            orders.append([number_orders[i], str(date_created_1), "", amount, price, type_, ticket])
         i += 1
 
     random.shuffle(orders)
     orders.insert(0, orders_attribute)
-    order_id, date_created, date_match, amount,price, type_, ticker = zip(*orders)
-    orders = [order_id, date_created, date_match, amount, price, type_, ticker]
+    order_id, date_created, date_match, amount, price, type_, ticket = zip(*orders)
+    orders = [order_id, date_created, date_match, amount, type_, ticket]
     random.shuffle(orders)
 
     with open("orders.csv", mode="w", encoding="UTF-8") as file:
