@@ -71,9 +71,14 @@ def create_users():
                  "birthday: string", "orders: list"]
 
     for user in usuarios:
+        if user == usuarios[-1]:
+            orders_user = number_orders.copy()
+        else:
+            number = random.randint(0, min(len(number_orders), 5))
+            orders_user = random.sample(number_orders, number)
+
         user.append(__generate_random_birthday())
-        number = random.randint(0, min(len(number_orders), 5))
-        orders_user = random.sample(number_orders, number)
+
         for elem in orders_user:
             number_orders.remove(elem)
         orders_user = ":".join(orders_user)
