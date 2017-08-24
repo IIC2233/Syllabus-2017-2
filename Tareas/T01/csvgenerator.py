@@ -71,9 +71,14 @@ def create_users():
                  "birthday: string", "orders: list"]
 
     for user in usuarios:
+        if user == usuarios[-1]:
+            orders_user = number_orders.copy()
+        else:
+            number = random.randint(0, min(len(number_orders), 5))
+            orders_user = random.sample(number_orders, number)
+
         user.append(__generate_random_birthday())
-        number = random.randint(0, min(len(number_orders), 5))
-        orders_user = random.sample(number_orders, number)
+
         for elem in orders_user:
             number_orders.remove(elem)
         orders_user = ":".join(orders_user)
@@ -118,27 +123,27 @@ def create_orders():
         date_created_1, date_created_2, date_match = __generate_random_date_and_match(date_created_2)
         amount = str(round(random.uniform(1, 300), 1))
         price = str(round(random.uniform(1, 300), 1))
-        type_ = random.choice(["ask", "bird"])
-        ticket = "".join(random.sample(simbolos_, 2))
+        type_ = random.choice(["ask", "bid"])
+        ticker = "".join(random.sample(simbolos_, 2))
 
         auxiliar_bool = random.choice([True, False])
 
         if auxiliar_bool and i < len(number_orders) - 2:  # Si hay match
-            orders.append([number_orders[i], str(date_created_1), date_match, amount, price, type_, ticket])
+            orders.append([number_orders[i], str(date_created_1), date_match, amount, price, type_, ticker])
             if type_ == "ask":
-                type_ = "bird"
+                type_ = "bid"
             else:
                 type_ = "ask"
-            orders.append([number_orders[i + 1], str(date_created_2), date_match, amount, price, type_, ticket])
+            orders.append([number_orders[i + 1], str(date_created_2), date_match, amount, price, type_, ticker])
             i += 1
         else:
-            orders.append([number_orders[i], str(date_created_1), "", amount, price, type_, ticket])
+            orders.append([number_orders[i], str(date_created_1), "", amount, price, type_, ticker])
         i += 1
 
     random.shuffle(orders)
     orders.insert(0, orders_attribute)
-    order_id, date_created, date_match, amount, price, type_, ticket = zip(*orders)
-    orders = [order_id, date_created, date_match, amount, type_, ticket]
+    order_id, date_created, date_match, amount, price, type_, ticker = zip(*orders)
+    orders = [order_id, date_created, date_match, amount, price, type_, ticker]
     random.shuffle(orders)
 
     with open("orders.csv", mode="w", encoding="UTF-8") as file:

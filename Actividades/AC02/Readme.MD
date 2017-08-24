@@ -35,6 +35,7 @@ La asistencia aparecerá en [este link](https://docs.google.com/a/uc.cl/spreadsh
 | **K202 05-I/J** | dmolina2 | Diego Molina | fedetaladriz | Federico Taladriz |
 | **K202 05-K/L** | fractalpie | Fabian Sepulveda | norman123123 | Norman Oliden |
 | **K202 06-A/B** | fvalvarez | Felipe Álvarez | NoemiCC | Noemí Crosby |
+| **K202 06-C**   | josefinabengoa | Josefina Bengoa | | |
 | **A1 01-A/B** | estebanmb | Esteban Mestre | vjaguilera | Vicente Aguilera |
 | **A1 01-C/D** | behrmann97 | Sebastian Behrmann | fenahurtado | Fernando Hurtado |
 | **A1 01-E/F** | Mariana-Ortega-del-Rio | Mariana Ortega | fgbruna | Franco Bruña |
