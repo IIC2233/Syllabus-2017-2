@@ -33,8 +33,8 @@ def set_scale(scale):
         raise TypeError("float expected")
 
 
-def set_points(points):
-    __game.setPoints(points)
+def set_points(player_numb, points):
+    __game.setPoints(player_numb, points)
 
 
 def add_piece(i, j, color=None, piece_type=None, on_move_ended=None):
