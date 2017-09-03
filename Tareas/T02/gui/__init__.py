@@ -34,7 +34,7 @@ def set_scale(scale):
 
 
 def set_points(player_numb, points):
-    __game.setPoints(player_numb, points)
+    __game.set_points(player_numb, points)
 
 
 def add_piece(i, j, color=None, piece_type=None, on_move_ended=None):
