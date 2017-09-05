@@ -57,6 +57,6 @@ if __name__ == '__main__':
     gui.init()
     gui.set_quality("ultra")  # low, medium, high ultra
     gui.set_animations(False)
-    gui.set_game_interface(MyInterface())  # GUI Listener
     gui.init_grid()
+    gui.set_game_interface(MyInterface())  # GUI Listener
     gui.run()
