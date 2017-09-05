@@ -15,6 +15,7 @@ PATH = os.path.dirname(os.path.abspath(__file__))
 class Game(QWidget):
     add_number_signal = pyqtSignal(tuple)
     pop_number_signal = pyqtSignal()
+    rotate_signal = pyqtSignal()
 
     def __init__(self):
         super().__init__()
@@ -70,6 +71,7 @@ class Game(QWidget):
         self.save_button.clicked.connect(self.save_game)
         self.add_number_signal.connect(self.state_grid.add_number)
         self.pop_number_signal.connect(self.state_grid.pop_number)
+        self.rotate_signal.connect(self.rotate_piece)
         self.grid.initUI()
         self.new_piece()
 
@@ -84,6 +86,9 @@ class Game(QWidget):
     @staticmethod
     def save_game():
         variables.GAME_INTERFACE.guardar_juego()
+
+    def user_rotate(self):
+        self.rotate_signal.emit()
 
     def add_number(self, number, color):
         self.add_number_signal.emit((number, color))
@@ -135,7 +140,5 @@ class Game(QWidget):
         variables.GAME_INTERFACE.rotar_pieza('Derecha')
 
     def keyPressEvent(self, event):
-        if event.key() == Qt.Key_S:
-            variables.GAME_INTERFACE.save_game()
-        elif event.key() == Qt.Key_H:
+        if event.key() == Qt.Key_H:
             variables.GAME_INTERFACE.hint_asked()

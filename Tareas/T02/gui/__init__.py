@@ -69,6 +69,10 @@ def add_hint(i, j):
     __game.addPiece(i, j, piece_type='hint')
 
 
+def rotate_piece():
+    __game.user_rotate()
+
+
 def set_game_interface(_game_interface):
     if isinstance(_game_interface, GameInterface):
         variables.GAME_INTERFACE = _game_interface
