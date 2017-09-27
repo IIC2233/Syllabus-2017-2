@@ -138,7 +138,7 @@ class MyWindow(QtWidgets.QMainWindow):
         menu_archivo.addAction(menu_archivo_abrir)
 
     def load_path(self):
-        with open("consultas.json") as file:
+        with open("consultas.json", encoding="UTF-8") as file:
             json_file = json.load(file)
         for querry in json_file:
             self.add_query(str(querry))
