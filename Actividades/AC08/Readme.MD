@@ -1,0 +1,93 @@
+## AC08
+
+La asistencia aparecerá en [este link](https://docs.google.com/a/uc.cl/spreadsheets/d/1mL5fwLx1GtLLulKolvZdEJnTc01Uk6wWgTqOH7W4Jfc/edit?usp=sharing). **Recuerda revisarla antes del término de la clase**.
+
+| Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
+|:-------|:-------|:---------|:-------|:---------|
+| **BC22 01-A/B** | lootarola | Lucas Otarola | matiaseche | Matías Echeverría |
+| **BC22 01-C/D** | paula-ds | Paula Díaz | Sforrego | Sebastian Orrego |
+| **BC22 01-E/F** | cotiravanal | Constanza Ravanal | Jamidd | Jaime Middleton |
+| **BC22 01-G/H** | SarahEverke | Sarah Everke | diegovaras97 | Diego Varas |
+| **BC22 02-A/B** | savelozo | Sebastian Velozo | josefinabengoa | Josefina Bengoa |
+| **BC22 02-C/D** | Javierdr | Javier Dreves | andreslyon | Andrés Lyon |
+| **BC22 02-E/F** | dmolina2 | Diego Molina | faberrios | Felipe Berrios |
+| **BC22 02-G/H** | pegajardo | Pablo Gajardo | ptflores1 | Pablo Flores |
+| **BC22 03-A/B** | dvogaz | Denisse Ogaz | Clemente24 | Clemente Guasch |
+| **BC22 03-C/D** | jabugmann | Joaquín Bugmann | matiasreyes121213 | Matías Reyes |
+| **BC22 03-E/F** | NoemiCC | Noemí Crosby | qukaah | Fernando Feliú |
+| **BC22 03-G/H** | mfanselmo1 | Martin Anselmo | NicolasCourt | Nicolás Court |
+| **BC22 04-A/B** | jcampino1 | José Campino | SalvadorProductions | Pablo Barría |
+| **BC22 04-C/D** | JuanGalilea | Juan Galilea | vsmatthews | Victoria Matthews |
+| **BC22 04-E/F** | vamarambio | Víctor Marambio | cfernandez9 | Camila Fernandez |
+| **BC22 04-G/H** | cjmunoz4 | Cristóbal Muñoz | HenryBlairG | Henry Blair |
+| **BC22 05-A/B** | Drpinto1 | Dante Pinto | jgespinosa10 | Juan Espinosa |
+| **BC22 05-C/D** | fedetaladriz | Federico Taladriz | MariaJosefinaAlliende | María Alliende |
+| **BC22 05-E/F** | diegoheg | Diego Echeverría | PIPEAPABLAZA | Felipe Apablaza |
+| **BC22 05-G/H** | benjastraub | Benjamin Straub | ploello | Pablo Torres |
+| **BC22 06-A/B** | jotramon | Javier Tramon | norman123123 | Norman Oliden |
+| **BC22 06-C/D** | jpgonzalez4 | Juan González | mebruna | Matías Bruna |
+| **BC22 06-E/F** | pxparga | Pilar Parga | sasotomayor | Sebastián Sotomayor |
+| **BC22 06-G/H** | jpchaconr | Juan Chacon | vixolo | Vicente Muñoz |
+| **BC22 07-A/B** | cristobalilabaca | Cristobal Ilabaca | fractalpie | Fabian Sepulveda |
+| **A1 01-A** | cirey1 | Cristóbal Rey |  |   |
+| **A1 01-B/C** | rihanuch | Rodrigo Hanuch | nachocontreras | Ignacio Contreras |
+| **A1 01-D/E** | Julius9 | Julio Huerta | glbello | Gonzalo Bello |
+| **A1 01-F/G** | movaldivia | Mauricio Valdivia | tvillalobos | Tien Villalobos |
+| **A1 01-H/I** | Polea012 | Pablo Olea | tanavarrete | Tomás Navarrete |
+| **A1 01-J/K** | JaviFerrada | Javiera Ferrada | jpsiegel | Jan Siegel |
+| **A1 01-L/M** | vjaguilera | Vicente Aguilera | Kitaps | Patrick Liedtke |
+| **A1 02-A/B** | Mariana-Ortega-del-Rio | Mariana Ortega | sricke | Sebastian Ricke |
+| **A1 02-C/D** | DquezadaO | Diego Quezada | Bneya | Benjamín Rivera |
+| **A1 02-E/F** | sebabitar | Sebastián Bitar | ManuelOchagavia | Manuel Ochagavía |
+| **A1 02-I/J** | nlvargas | Nicolas Vargas | aacifuentesb | Alejandro Cifuentes |
+| **A1 02-K/L** | Joyazo | Juan Moraga | mesantamaria | Maximiliano Santamaría |
+| **A1 02-M/N** | MrEarle | Benjamin Earle | mapendola | Marcelo Péndola |
+| **A1 03-A/B** | Davives | Daniel Vives | pasilvac | Patricia Silva |
+| **A1 03-C/D** | francisca1 | Francisca Rebolledo | velubascher | Vicente Lubascher |
+| **A1 03-E/F** | yerkko | Yerko Chávez | fgbruna | Franco Bruña |
+| **A1 03-I/J** | Mtcoloma | Matias Coloma | Zupeuc | Daniel Zupeuc |
+| **A1 03-K/L** | BeaGaete | Beatriz Gaete | tomasrivera | Tomas Rivera |
+| **A1 03-M/N** | cacevedo3 | Cristóbal Acevedo | Vicentevialpaul | Vicente Vial |
+| **A1 04-A/B** | Jiruiz2 | Javier Ruiz | jvlara | José Lara |
+| **A1 04-C/D** | nmaturana97 | Nicolás Maturana | felipecr00 | Felipe Cornejo |
+| **A1 04-E/F** | inmadariaga | Ignacio Madariaga | xariveros | Xavier Riveros |
+| **A1 04-I/J** | NotSimple | Eduardo Garrido | ewaugh2 | Enrique Waugh |
+| **A1 04-K/L** | fenahurtado | Fernando Hurtado | jerosalazar | Jeronimo Salazar |
+| **A1 04-M/N** | ajahr95 | Andrés Jahr | Pudindin | Diego Caroca |
+| **A1 05-A/B** | gkschuit | Gregory Schuit | pnheinsohn | Paul Heinsohn |
+| **A1 05-C/D** | vaetchegaray | Vicente Etchegaray | MitchellVera | Mitchell Vera |
+| **A1 05-E/F** | aurodriguez | Antonia Rodríguez | pdesolminihac | Patricio De Solminihac |
+| **A1 05-I/J** | behrmann97 | Sebastian Behrmann | santi95 | Santiago Muñoz |
+| **A1 05-K/L** | colindom | Jose Dominguez | cgiic2233 | Camilo García |
+| **A1 05-M/N** | Dyoma3 | Dinko Yoma | estebanmb | Esteban Mestre |
+| **K202 01-A/B** | llloyola | Luis Loyola | Pipelao | Felipe Jiménez |
+| **K202 01-C/D** | leolivares | Leonardo Olivares | bawas | Tomas Harris |
+| **K202 01-E/F** | aleuribej | Alejandra Uribe | jnpoblete | José Poblete |
+| **K202 01-G/H** | cmp831 | Wenyi He | augustoas | Augusto Alvarez |
+| **K202 01-I/J** | rgevert | Rodrigo Gevert | lily416 | Daniela Concha |
+| **K202 01-K/L** | mjgutierrez1 | Mauricio Gutiérrez | bleon1 | Benjamín León |
+| **K202 02-A/B** | icampusano | Ignacio Campusano | dialvarez1 | Diego Álvarez |
+| **K202 02-C/D** | BibarelUsedFly | Felipe Villagran | vndiaz1 | Vicente Díaz |
+| **K202 02-E/F** | rsommer1 | Rolf Sommer | comidachina | Jeremías Molina |
+| **K202 02-G/H** | felipesanchezvaras | Felipe Sánchez | Fhguinez | Francisco Guíñez |
+| **K202 02-I/J** | MarceloSaldias | Marcelo Saldías | simontoya | Sebastian Montoya |
+| **K202 02-K/L** | odbravo | Omar Bravo | jadiaz6 | José Díaz |
+| **K202 03-A/B** | cdlepe | Carla Lepe | jfbahamondes | Javier Bahamondes |
+| **K202 03-C/D** | achadwicka | Alberto Chadwick | Calomi | Camilo Berríos |
+| **K202 03-E/F** | caespinoza5 | Cristobal Espinoza | NicolasSalgado | Nicolás Salgado |
+| **K202 03-G/H** | depedraza | Diego Pedraza | depstein26 | Daniel Epstein |
+| **K202 03-I/J** | bmespinoza | Barbara Espinoza | rafabusleme | Rafael Abusleme |
+| **K202 03-K/L** | Felipehanckes | Felipe Hanckes | valeria-adasme | Valeria Adasme |
+| **K202 04-A/B** | mundurragac | Max Undurraga | Pgovalle | Pablo Ovalle |
+| **K202 04-C/D** | Jiparavich | Javier Paravich | JPSF | Juan Schnettler |
+| **K202 04-E/F** | B-Dominguez | Benjamin Dominguez | fjaraneda | Francisco Araneda |
+| **K202 04-G/H** | sgcarreno | Sebastián Carreño | IchottMano | Ricardo Schilling |
+| **K202 04-I/J** | rakarachon | Rafaela Karachon | naazocar | Nicolás Azócar |
+| **K202 04-K/L** | tnmarin | Tomás Marín | bedefrunner | Federico Brunner |
+| **K202 05-A/B** | Regenschrim | Marcelo Escudero | fabarros | Francisco Barros |
+| **K202 05-C/D** | mmsaavedra1 | Moises Saavedra | antoniomunoz9 | Antonio Muñoz |
+| **K202 05-E/F** | rjgalvez | Ramiro Galvez | ifieldhouse | Ian Fieldhouse |
+| **K202 05-G/H** | acastro4 | Alberto Castro | mnmardones | Maximiliano Mardones |
+| **K202 05-I/J** | Faalfaro | Fernando Alfaro | dnalfaro | Diego Alfaro |
+| **K202 05-K/L** | ChayoPerez | Rosario Perez | bimartinez | Benjamín Martínez |
+| **K202 06-A/B** | AndresGarciadelaHuerta | Andrés García De La Huerta | vbarreradg | Valentina Barrera |
