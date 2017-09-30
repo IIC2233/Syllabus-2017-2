@@ -1,0 +1,17 @@
+[
+	["pariente_de", 0, "Hernán Valdivieso"],
+	["pariente_de", 1, "Tomas Salvadores"],
+	["pariente_de", 1, "Lucas Valenzuela"],
+	["pariente_de", 2, "Jesús De Nazaret"],
+	["pariente_de", 2, "Florencia Barrios"],
+	["pariente_de", "n", "Rick Sánchez"],
+	["ascendencia", "Henry Boys"],
+	["ascendencia", "Ivania Donoso"],
+	["ascendencia", "Hans Lobel"],
+	["gemelo_genetico", "Hernán Valdivieso"],
+	["gemelo_genetico", "Nebil Kawas"],
+	["valor_característica","TCT" ,"Stephanie Chau"],
+	["valor_característica","TAG" ,"El Chuña"],
+	["valor_característica","TGG" ,"Bastián Mavrakis"],
+	["valor_característica","TAG" ,"Fernando Florenzano"]
+]
