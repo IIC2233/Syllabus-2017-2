@@ -1,0 +1,223 @@
+Soy Hernan Valdivieso
+Caracteristicas 
+ {'Altura': 1.4, 'Ojos': 'Azules', 'Pelo': 'Rubio', 'Piel': 'Albino', 'Nariz': 'Aguileña', 'Pies': 48.0, 'Vello': 'Axila, Espalda', 'Guata': 'Guatón Parrillero', 'Vision': 'Miopia'}
+
+Soy Jesús De Nazaret
+Caracteristicas 
+ {'Altura': 1.4, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 40.0, 'Vello': 'Axila, Espalda', 'Guata': 'Modelo', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Rick Sánchez
+Caracteristicas 
+ {'Altura': 1.9500000000000002, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 41.0, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': ''}
+
+Soy Frodo Baggins
+Caracteristicas 
+ {'Altura': 1.9833333333333334, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Aguileña', 'Pies': 41.0, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Modelo', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Hakalamax Atalapastruka
+Caracteristicas 
+ {'Altura': 1.8454545454545455, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 43.69230769230769, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo'}
+
+Soy Tomas Salvadores
+Caracteristicas 
+ {'Altura': 1.6692307692307693, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 48.0, 'Vello': 'Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Marcelo Lagos
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 34.0, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Hernán Valdivieso
+Caracteristicas 
+ {'Altura': 2.1, 'Ojos': 'Azules', 'Pelo': 'Negro', 'Piel': 'Albino', 'Nariz': 'Aguileña', 'Pies': 34.0, 'Vello': 'Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo'}
+
+Soy Alejandro Kaminetzky
+Caracteristicas 
+ {'Altura': 1.68, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Aguileña', 'Pies': 39.09090909090909, 'Vello': '', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Morty Smith
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 34.0, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Modelo', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Henry Boys
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 36.333333333333336, 'Vello': '', 'Guata': 'Mañana empiezo la dieta', 'Vision': ''}
+
+Soy El Chuña
+Caracteristicas 
+ {'Altura': 1.6545454545454545, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 39.833333333333336, 'Vello': 'Pecho, Axila', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Paula Salvo
+Caracteristicas 
+ {'Altura': 1.6692307692307693, 'Ojos': 'Azules', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Aguileña', 'Pies': 36.333333333333336, 'Vello': '', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Luna  Lovegood
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 43.69230769230769, 'Vello': 'Pecho, Axila', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Sterling Archer
+Caracteristicas 
+ {'Altura': 1.4, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 39.6, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy fringles inthestreet
+Caracteristicas 
+ {'Altura': 1.4, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 43.33333333333333, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Nicolás Balbontin
+Caracteristicas 
+ {'Altura': 1.8, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 39.833333333333336, 'Vello': '', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Felipe Dominguez
+Caracteristicas 
+ {'Altura': 1.8375, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Respingada', 'Pies': 39.6, 'Vello': '', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Stephanie Chau
+Caracteristicas 
+ {'Altura': 1.8, 'Ojos': 'Verdes', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 42.0, 'Vello': 'Pecho, Axila', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo'}
+
+Soy Fernando Pieressa
+Caracteristicas 
+ {'Altura': 1.7181818181818183, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Respingada', 'Pies': 42.4, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo'}
+
+Soy Nebil Kawas
+Caracteristicas 
+ {'Altura': 1.7818181818181817, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 41.0, 'Vello': '', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Lucas Valenzuela
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Verdes', 'Pelo': 'Rubio', 'Piel': 'Albino', 'Nariz': 'Recta', 'Pies': 41.53846153846154, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Guatón Parrillero', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Ivania Donoso
+Caracteristicas 
+ {'Altura': 1.7, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 43.33333333333333, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Florencia Barrios
+Caracteristicas 
+ {'Altura': 1.6333333333333333, 'Ojos': 'Azules', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 42.0, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Andrés Fernández
+Caracteristicas 
+ {'Altura': 1.8666666666666667, 'Ojos': 'Azules', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 42.0, 'Vello': 'Pecho, Axila', 'Guata': 'Guatón Parrillero', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Joaquin Tagle
+Caracteristicas 
+ {'Altura': 1.8375, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 41.0, 'Vello': 'Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Octavio Vera
+Caracteristicas 
+ {'Altura': 2.1, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 45.66666666666667, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Raúl Álvarez
+Caracteristicas 
+ {'Altura': 1.4, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Aguileña', 'Pies': 41.0, 'Vello': 'Pecho, Axila', 'Guata': 'Modelo', 'Vision': ''}
+
+Soy Santiago Torres
+Caracteristicas 
+ {'Altura': 1.4, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 40.46153846153846, 'Vello': '', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy José Manuel Larraín
+Caracteristicas 
+ {'Altura': 1.8900000000000001, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 42.4, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Jorge Riesco
+Caracteristicas 
+ {'Altura': 1.6099999999999999, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Albino', 'Nariz': 'Aguileña', 'Pies': 42.90909090909091, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Gabriel Lyon
+Caracteristicas 
+ {'Altura': 1.925, 'Ojos': 'Azules', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 39.6, 'Vello': 'Pecho, Espalda', 'Guata': 'Guatón Parrillero', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Isaac Carrera
+Caracteristicas 
+ {'Altura': 1.788888888888889, 'Ojos': 'Cafés', 'Pelo': 'Pelirrojo', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 43.33333333333333, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Miopia'}
+
+Soy Vicente Juárez
+Caracteristicas 
+ {'Altura': 1.4, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 42.75, 'Vello': 'Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Camilo López
+Caracteristicas 
+ {'Altura': 1.9727272727272727, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 41.0, 'Vello': 'Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Felipe Quinteros
+Caracteristicas 
+ {'Altura': 1.7266666666666666, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 38.666666666666664, 'Vello': 'Pecho', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Erick Romero
+Caracteristicas 
+ {'Altura': 1.575, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 40.46153846153846, 'Vello': 'Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Jessica Hormazabal
+Caracteristicas 
+ {'Altura': 1.6333333333333333, 'Ojos': 'Cafés', 'Pelo': 'Rubio', 'Piel': 'Negro', 'Nariz': 'Aguileña', 'Pies': 38.666666666666664, 'Vello': 'Pecho, Axila', 'Guata': 'Modelo', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Tanya Garrido
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Cafés', 'Pelo': 'Rubio', 'Piel': 'Albino', 'Nariz': 'Recta', 'Pies': 38.666666666666664, 'Vello': 'Pecho, Axila', 'Guata': 'Atleta', 'Vision': ''}
+
+Soy Gustavo Prudencio
+Caracteristicas 
+ {'Altura': 1.8083333333333333, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 44.769230769230774, 'Vello': 'Pecho, Axila', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Fernando Florenzano
+Caracteristicas 
+ {'Altura': 1.7818181818181817, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 45.2, 'Vello': '', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Daniela Flores
+Caracteristicas 
+ {'Altura': 1.9833333333333334, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Aguileña', 'Pies': 40.53333333333333, 'Vello': '', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Bastián Mavrakis
+Caracteristicas 
+ {'Altura': 1.7181818181818183, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 41.0, 'Vello': '', 'Guata': 'Atleta', 'Vision': ''}
+
+Soy Hugo Navarrete
+Caracteristicas 
+ {'Altura': 1.8900000000000001, 'Ojos': 'Cafés', 'Pelo': 'Rubio', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 41.0, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': ''}
+
+Soy Sebastian Cruz
+Caracteristicas 
+ {'Altura': 1.9500000000000002, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 48.0, 'Vello': 'Axila', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Ignacio Acevedo
+Caracteristicas 
+ {'Altura': 1.5166666666666666, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 38.30769230769231, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Miopia'}
+
+Soy Vicente Valencia
+Caracteristicas 
+ {'Altura': 1.68, 'Ojos': 'Cafés', 'Pelo': 'Pelirrojo', 'Piel': 'Blanco', 'Nariz': 'Respingada', 'Pies': 39.38461538461539, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Germán Contreras
+Caracteristicas 
+ {'Altura': 2.0, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Respingada', 'Pies': 43.33333333333333, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Patricio Diaz
+Caracteristicas 
+ {'Altura': 1.575, 'Ojos': 'Azules', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 36.8, 'Vello': 'Axila', 'Guata': 'Modelo', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Jurgen Heysen
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Azules', 'Pelo': 'Rubio', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 41.77777777777778, 'Vello': 'Pecho, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Luis Leiva
+Caracteristicas 
+ {'Altura': 1.5499999999999998, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 40.22222222222222, 'Vello': 'Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Francesca Lucchini
+Caracteristicas 
+ {'Altura': 1.8666666666666667, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Aguileña', 'Pies': 37.5, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Modelo', 'Vision': 'Miopia'}
+
+Soy Felipe Pezoa
+Caracteristicas 
+ {'Altura': 1.6625, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 40.0, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Thomas Brahm
+Caracteristicas 
+ {'Altura': 1.4, 'Ojos': 'Cafés', 'Pelo': 'Rubio', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 48.0, 'Vello': 'Axila, Espalda', 'Guata': 'Atleta', 'Vision': ''}
+
+Soy Emilio Gabriele
+Caracteristicas 
+ {'Altura': 1.6625, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Aguileña', 'Pies': 48.0, 'Vello': 'Pecho, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+
+Soy Hans Lobel
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Aguileña', 'Pies': 44.888888888888886, 'Vello': '', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
