@@ -1,41 +1,28 @@
 -------------------- Consulta 1 --------------------
 Error: Not Acceptable
 -------------------- Consulta 2 --------------------
-Sebastian Cruz
 Emilio Gabriele
 -------------------- Consulta 3 --------------------
 Error: Not Acceptable
 -------------------- Consulta 4 --------------------
 El Chuña
-Luna  Lovegood
 Sterling Archer
 fringles inthestreet
-Nebil Kawas
 Ivania Donoso
 Florencia Barrios
-Joaquin Tagle
-Santiago Torres
 Gabriel Lyon
-Erick Romero
 Germán Contreras
-Patricio Diaz
 Luis Leiva
 Felipe Pezoa
 -------------------- Consulta 5 --------------------
 Jesús De Nazaret
 El Chuña
-Luna  Lovegood
 Sterling Archer
 fringles inthestreet
-Nebil Kawas
 Ivania Donoso
-Joaquin Tagle
 Octavio Vera
-Santiago Torres
 Gabriel Lyon
-Erick Romero
 Gustavo Prudencio
-Fernando Florenzano
 Germán Contreras
 Luis Leiva
 Felipe Pezoa
@@ -43,24 +30,14 @@ Felipe Pezoa
 Hakalamax Atalapastruka
 Henry Boys
 El Chuña
-Luna  Lovegood
 Sterling Archer
 fringles inthestreet
-Stephanie Chau
-Fernando Pieressa
-Nebil Kawas
 Ivania Donoso
 Florencia Barrios
-Joaquin Tagle
 Octavio Vera
-Santiago Torres
 Gabriel Lyon
 Isaac Carrera
-Erick Romero
 Gustavo Prudencio
-Fernando Florenzano
-Bastián Mavrakis
-Vicente Valencia
 Germán Contreras
 Jurgen Heysen
 Luis Leiva
@@ -76,10 +53,10 @@ Sebastian Cruz
 -------------------- Consulta 11 --------------------
 El Chuña
 -------------------- Consulta 12 --------------------
-Moreno
+Blanco
 -------------------- Consulta 13 --------------------
 Daltonismo, Miopia
 -------------------- Consulta 14 --------------------
-Mañana empiezo la dieta
+Atleta
 -------------------- Consulta 15 --------------------
 Daltonismo, Miopia
