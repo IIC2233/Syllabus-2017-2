@@ -1,4 +1,4 @@
--------------------- Consulta 1 --------------------
+﻿-------------------- Consulta 1 --------------------
 Error: Not Acceptable
 -------------------- Consulta 2 --------------------
 Emilio Gabriele
@@ -10,8 +10,6 @@ Sterling Archer
 fringles inthestreet
 Ivania Donoso
 Florencia Barrios
-Gabriel Lyon
-Germán Contreras
 Luis Leiva
 Felipe Pezoa
 -------------------- Consulta 5 --------------------
