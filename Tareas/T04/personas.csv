@@ -1,253 +1,283 @@
 Nombre; Apellido; Edad; Vendedores de Preferencia; Entidad; Tipo Comida; Personalidad
-Nicolás; Court; 23; Germán Contreras - Jorge Riesco - Luis Leiva - Isaac Carrera - Jurgen Heysen; Alumno; - ; - 
-Javier Ignacio; Paravich; 22; Vicente Juárez - Jorge Riesco - Felipe Quinteros; Alumno; - ; - 
-Stephanie; Chau; 38; Patricio Diaz - Thomas Brahm - Octavio Vera - Ignacio Acevedo - Vicente Juárez - Tanya Garrido; Funcionario; - ; - 
-Francisco José; Araneda; 22; Emilio Gabriele - Germán Contreras - Hans Lobel - Luis Leiva - Bastián Mavrakis - Gabriel Lyon - Fernando Florenzano; Alumno; - ; - 
-Javiera Antonia; Jopia; 20; Germán Contreras - Gabriel Lyon - Patricio Diaz - Octavio Vera - Emilio Gabriele - Luis Leiva; Alumno; - ; - 
-Vicente Ignacio; Pardo; 22; Tanya Garrido - Raúl Álvarez - Jurgen Heysen - Erick Romero; Alumno; - ; - 
-Florencia; Barrios; 33; Raúl Álvarez - Jurgen Heysen - Luis Leiva - Ignacio Acevedo - Octavio Vera; Funcionario; - ; - 
-Pablo Esteban; Gajardo; 22; Octavio Vera - Isaac Carrera - Luis Leiva - Bastián Mavrakis - Jessica Hormazabal - Patricio Diaz; Alumno; - ; - 
-Dante Ricardo; Pinto; 21; Isaac Carrera - Germán Contreras - Gustavo Prudencio - Emilio Gabriele - Tanya Garrido - Erick Romero; Alumno; - ; - 
-Hedley; Stafford; 22; - ; Carabinero; - ; Mr. Hyde 
-Gabriel; Lyon; 40; - ; Vendedor; Snack ; - Isaac; Carrera; 30; - ; Vendedor; China ; - Leah; Blackwell; 24; - ; Carabinero; - ; Mr. Hyde 
-Pablo Agustín; Ovalle; 23; Jorge Riesco - Emilio Gabriele - Fernando Florenzano - Luis Leiva - Hugo Navarrete; Alumno; - ; - 
-Sebastian; Ricke; 24; Felipe Quinteros - José Manuel Larraín - Gustavo Prudencio - Jessica Hormazabal - Sebastian Cruz - Thomas Brahm; Alumno; - ; - 
-Angel-matias; Morales; 24; Hans Lobel - Jorge Riesco - Santiago Torres - Bastián Mavrakis - Jessica Hormazabal - Octavio Vera - Daniela Flores; Alumno; - ; - 
-Paloma; Mack; 32; - ; Carabinero; - ; Dr. Jekyll 
-Juan Pablo; Schnettler; 21; Felipe Pezoa - Tanya Garrido - Gabriel Lyon - Vicente Valencia; Alumno; - ; - 
-Joaquín Alberto; Bugmann; 21; Patricio Diaz - Jessica Hormazabal - Germán Contreras - Hans Lobel - Felipe Quinteros - Bastián Mavrakis; Alumno; - ; - 
-Marun Nicolás Camilo; Zegpi; 20; Sebastian Cruz - Jorge Riesco - Felipe Quinteros - Fernando Florenzano - Ignacio Acevedo; Alumno; - ; - 
-Mauricio José; Gutiérrez; 22; Ignacio Acevedo - Jurgen Heysen - José Manuel Larraín - Luis Leiva - Santiago Torres - Vicente Juárez - Hans Lobel; Alumno; - ; - 
-Nicolás Alonso; Azócar; 24; Germán Contreras - Raúl Álvarez - Thomas Brahm; Alumno; - ; - 
-; ; 22; Patricio Diaz - Felipe Quinteros - Luis Leiva - Hans Lobel - Vicente Juárez - Jurgen Heysen - Daniela Flores; Alumno; - ; - 
-Dinko Fernando; Yoma; 21; Jorge Riesco - Santiago Torres - Vicente Juárez - Felipe Quinteros - Camilo López - Francesca Lucchini; Alumno; - ; - 
-Dieter; West; 34; - ; Carabinero; - ; Mr. Hyde 
-Fernando; Florenzano; 19; - ; Vendedor; Mexicana ; - Martin Felix; Anselmo; 23; Emilio Gabriele - Bastián Mavrakis - Santiago Torres - Octavio Vera - Sebastian Cruz - Jurgen Heysen - Daniela Flores; Alumno; - ; - 
-Benjamín Ismael; Rivera; 24; Camilo López - Thomas Brahm - Hugo Navarrete - Felipe Pezoa - Ignacio Acevedo - Jessica Hormazabal; Alumno; - ; - 
-Vicente Alfredo; Etchegaray; 21; Erick Romero - Felipe Quinteros - Gabriel Lyon - Raúl Álvarez - Santiago Torres - Germán Contreras; Alumno; - ; - 
-Andrés; García De La Huerta; 23; Bastián Mavrakis - Gabriel Lyon - Vicente Valencia - Daniela Flores - Fernando Florenzano - Jorge Riesco - Isaac Carrera; Alumno; - ; - 
-Benjamín; León; 21; Erick Romero - Francesca Lucchini - Jessica Hormazabal; Alumno; - ; - 
-El; Chuña; 23; Raúl Álvarez - Fernando Florenzano - Luis Leiva - Gabriel Lyon - Tanya Garrido - Daniela Flores; Funcionario; - ; - 
-Maximiliano Eduardo; Santamaría; 20; Bastián Mavrakis - Santiago Torres - Francesca Lucchini - Camilo López - Vicente Juárez - Felipe Pezoa; Alumno; - ; - 
-Paula Isabel; Díaz; 23; Daniela Flores - Gustavo Prudencio - Hans Lobel - Santiago Torres; Alumno; - ; - 
-Martin Orlando; Quevedo; 24; Daniela Flores - Felipe Pezoa - Hans Lobel - Raúl Álvarez - Vicente Valencia; Alumno; - ; - 
-Norman Andres; Oliden; 23; Felipe Pezoa - Tanya Garrido - Ignacio Acevedo - Jorge Riesco - Gustavo Prudencio; Alumno; - ; - 
-Esteban; Mestre; 20; Octavio Vera - Raúl Álvarez - Germán Contreras - Vicente Valencia; Alumno; - ; - 
-Javier Eduardo; Reyes; 23; Felipe Pezoa - Vicente Valencia - Sebastian Cruz - Felipe Quinteros - Jurgen Heysen - Hans Lobel - Thomas Brahm; Alumno; - ; - 
-Tomas; Salvadores; 36; Patricio Diaz - Santiago Torres - Sebastian Cruz - Camilo López - Ignacio Acevedo - Luis Leiva - Bastián Mavrakis; Funcionario; - ; - 
-Fernando Antonio; Alfaro; 22; Hugo Navarrete - Camilo López - Hans Lobel - Vicente Valencia - Felipe Quinteros - Raúl Álvarez; Alumno; - ; - 
-Juan Pablo; Chacon; 23; Hans Lobel - Vicente Valencia - Ignacio Acevedo - Daniela Flores - Emilio Gabriele; Alumno; - ; - 
-Alberto; Chadwick; 21; Vicente Juárez - Gabriel Lyon - Francesca Lucchini - Bastián Mavrakis - Germán Contreras - Jorge Riesco; Alumno; - ; - 
-Rafael Antonio; Abusleme; 22; Bastián Mavrakis - Erick Romero - Gabriel Lyon - Thomas Brahm - Patricio Diaz - Isaac Carrera; Alumno; - ; - 
-Diego; Varas; 23; Gabriel Lyon - Gustavo Prudencio - Fernando Florenzano - Erick Romero - Luis Leiva - José Manuel Larraín - Emilio Gabriele; Alumno; - ; - 
-Cristóbal; Acevedo; 23; Daniela Flores - Jessica Hormazabal - Fernando Florenzano - Gabriel Lyon; Alumno; - ; - 
-Vicente Agustín; Vial; 23; Tanya Garrido - Ignacio Acevedo - Raúl Álvarez - Sebastian Cruz; Alumno; - ; - 
-Camilo; López; 20; - ; Vendedor; China ; - Dana; Sloan; 31; - ; Carabinero; - ; Mr. Hyde 
-María Josefina; Alliende; 20; Camilo López - Emilio Gabriele - Daniela Flores - Bastián Mavrakis; Alumno; - ; - 
-Augusto Alejandro; Alvarez; 23; Bastián Mavrakis - Hans Lobel - Thomas Brahm - Erick Romero - Santiago Torres - Sebastian Cruz - Emilio Gabriele; Alumno; - ; - 
-Pablo Andres; Torres; 21; Hans Lobel - Santiago Torres - Raúl Álvarez - Jorge Riesco - Luis Leiva - Isaac Carrera; Alumno; - ; - 
-Felipe; Dominguez; 28; Ignacio Acevedo - Germán Contreras - Francesca Lucchini - Santiago Torres - Jurgen Heysen - Thomas Brahm - Vicente Valencia; Funcionario; - ; - 
-Francisca Paola Andrea; Rebolledo; 23; José Manuel Larraín - Patricio Diaz - Francesca Lucchini; Alumno; - ; - 
-Fernando; Pieressa; 20; Vicente Juárez - Jessica Hormazabal - Luis Leiva - Germán Contreras; Funcionario; - ; - 
-Sebastian; Behrmann; 20; Emilio Gabriele - Felipe Pezoa - José Manuel Larraín - Jurgen Heysen - Fernando Florenzano - Gabriel Lyon; Alumno; - ; - 
-Jan Paul; Siegel; 24; Thomas Brahm - Gustavo Prudencio - Francesca Lucchini; Alumno; - ; - 
-Joaquin; Tagle; 36; Daniela Flores - Octavio Vera - Tanya Garrido - Jorge Riesco; Funcionario; - ; - 
-Pilar Ximena; Parga; 23; Tanya Garrido - Vicente Valencia - Isaac Carrera - Bastián Mavrakis - Hugo Navarrete; Alumno; - ; - 
-Max; Undurraga; 22; Bastián Mavrakis - Jurgen Heysen - José Manuel Larraín; Alumno; - ; - 
-Maximiliano Andres; Mardones; 20; Isaac Carrera - Jorge Riesco - Vicente Juárez - Camilo López - Felipe Quinteros - Patricio Diaz; Alumno; - ; - 
-Ricardo Esteban; Schilling; 24; Santiago Torres - Felipe Pezoa - Felipe Quinteros; Alumno; - ; - 
-Cristobal; Ilabaca; 22; Raúl Álvarez - Francesca Lucchini - Germán Contreras - Emilio Gabriele; Alumno; - ; - 
-Nicolás; Maturana; 21; Bastián Mavrakis - Felipe Pezoa - Emilio Gabriele - Thomas Brahm - Sebastian Cruz - Isaac Carrera - Hans Lobel; Alumno; - ; - 
-Luis Alejandro; Pozas; 22; Jessica Hormazabal - Daniela Flores - Jorge Riesco; Alumno; - ; - 
-Tomás Arturo; Navarrete; 21; Erick Romero - Patricio Diaz - Jessica Hormazabal - Felipe Quinteros; Alumno; - ; - 
-Gregory Kees; Schuit; 21; Jurgen Heysen - Octavio Vera - Bastián Mavrakis - Felipe Quinteros - Jorge Riesco; Alumno; - ; - 
-Andrés Ignacio; Lyon; 24; Patricio Diaz - Bastián Mavrakis - Vicente Valencia - Hugo Navarrete - Isaac Carrera - Gustavo Prudencio - Erick Romero; Alumno; - ; - 
-Nicolás; Balbontin; 28; Fernando Florenzano - Jessica Hormazabal - Thomas Brahm - Emilio Gabriele - Santiago Torres - Francesca Lucchini - Germán Contreras; Funcionario; - ; - 
-Sebastián Ignacio; Calderón; 20; Jorge Riesco - Tanya Garrido - Hugo Navarrete - Sebastian Cruz; Alumno; - ; - 
-Rafaela Antonia; Karachon; 23; Jessica Hormazabal - Jorge Riesco - Vicente Valencia - Luis Leiva; Alumno; - ; - 
-Luis; Leiva; 33; - ; Vendedor; Mexicana ; - Felipe; Pezoa; 25; - ; Vendedor; Snack ; - Andrés Sebastián; Jahr; 24; Hans Lobel - Bastián Mavrakis - Ignacio Acevedo; Alumno; - ; - 
-Fabian Andres; Sepulveda; 21; Erick Romero - Patricio Diaz - Santiago Torres - Felipe Quinteros - Hugo Navarrete - Luis Leiva; Alumno; - ; - 
-Federico José; Brunner; 21; Gabriel Lyon - José Manuel Larraín - Ignacio Acevedo - Camilo López - Octavio Vera - Felipe Quinteros; Alumno; - ; - 
-Nell; Mercer; 30; - ; Carabinero; - ; Dr. Jekyll 
-Kim; Downs; 19; - ; Carabinero; - ; Mr. Hyde 
-Rick; Sánchez; 35; Gabriel Lyon - Thomas Brahm - Camilo López - José Manuel Larraín - Jorge Riesco - Jessica Hormazabal; Funcionario; - ; - 
-Carla Javiera; Peñailillo; 21; Octavio Vera - Raúl Álvarez - Camilo López - Vicente Valencia - Felipe Pezoa; Alumno; - ; - 
-Xavier Andrés; Riveros; 24; Erick Romero - José Manuel Larraín - Emilio Gabriele - Thomas Brahm; Alumno; - ; - 
+Camila; Fernandez; 21; Luis Leiva - Felipe Quinteros - Jurgen Heysen; Alumno; - ; - 
+Franco Gabriel; Bruña; 23; Jorge Riesco - Jessica Hormazabal - Jurgen Heysen - Camilo López - Bastián Mavrakis; Alumno; - ; - 
+Benjamin; Straub; 23; Francesca Lucchini - Vicente Valencia - Luis Leiva - Ignacio Acevedo; Alumno; - ; - 
+David Ignacio; Alfaro; 20; Bastián Mavrakis - Luis Leiva - Felipe Pezoa - Thomas Brahm - Vicente Valencia - Raúl Álvarez - Gustavo Prudencio; Alumno; - ; - 
+Rafaela Antonia; Karachon; 21; José Manuel Larraín - Tanya Garrido - Felipe Pezoa - Hans Lobel - Emilio Gabriele; Alumno; - ; - 
+Augusto Alejandro; Alvarez; 23; Isaac Carrera - Felipe Pezoa - Francesca Lucchini - Jorge Riesco; Alumno; - ; - 
+Sebastián Luis; Bitar; 21; Santiago Torres - Camilo López - Felipe Quinteros - Jessica Hormazabal - Gustavo Prudencio - Bastián Mavrakis - Jurgen Heysen; Alumno; - ; - 
+José Agustín; Díaz; 21; Felipe Pezoa - Hugo Navarrete - Emilio Gabriele - Camilo López - Felipe Quinteros - José Manuel Larraín - Fernando Florenzano; Alumno; - ; - 
+Cristóbal; Acevedo; 24; Hugo Navarrete - Fernando Florenzano - Emilio Gabriele - José Manuel Larraín - Hans Lobel; Alumno; - ; - 
+Juan Pablo; Schnettler; 20; Luis Leiva - Sebastian Cruz - Francesca Lucchini - Hugo Navarrete - Vicente Juárez - Jessica Hormazabal; Alumno; - ; - 
+Ian; Fieldhouse; 21; Gabriel Lyon - Fernando Florenzano - Santiago Torres; Alumno; - ; - 
+Francisca Paola Andrea; Rebolledo; 20; Raúl Álvarez - Santiago Torres - Sebastian Cruz - Luis Leiva - Vicente Valencia - Gabriel Lyon; Alumno; - ; - 
+Leonardo Enrique; Olivares; 24; Emilio Gabriele - Patricio Diaz - Thomas Brahm - Francesca Lucchini; Alumno; - ; - 
+Rosario Andrea; Perez; 23; Camilo López - Jorge Riesco - Thomas Brahm - Gustavo Prudencio - Germán Contreras - Felipe Quinteros; Alumno; - ; - 
+Pablo Tomás; Flores; 20; Hans Lobel - Daniela Flores - Erick Romero - José Manuel Larraín - Tanya Garrido - Octavio Vera - Thomas Brahm; Alumno; - ; - 
+Diego Hernán; Echeverría; 23; Gabriel Lyon - Camilo López - Tanya Garrido - Hugo Navarrete - Germán Contreras - Isaac Carrera - Jessica Hormazabal; Alumno; - ; - 
+Morty; Smith; 26; Jessica Hormazabal - Isaac Carrera - Tanya Garrido - Luis Leiva - José Manuel Larraín; Funcionario; - ; - 
+Patrick Andreas; Liedtke; 20; Hugo Navarrete - Daniela Flores - Jessica Hormazabal - Gustavo Prudencio - Sebastian Cruz - Germán Contreras - Luis Leiva; Alumno; - ; - 
+Vicente Enrique; Lubascher; 24; Erick Romero - Daniela Flores - Gabriel Lyon; Alumno; - ; - 
+Paloma; Mack; 18; - ; Carabinero; - ; Mr. Hyde 
+Diego Ignacio; Álvarez; 20; Raúl Álvarez - Camilo López - Felipe Pezoa - Daniela Flores - Emilio Gabriele; Alumno; - ; - 
+Tomas Vicente; Harris; 20; Jorge Riesco - Felipe Quinteros - Santiago Torres - Germán Contreras - Isaac Carrera - Octavio Vera; Alumno; - ; - 
+Xavier Andrés; Riveros; 24; Fernando Florenzano - Tanya Garrido - Erick Romero - Vicente Juárez - Gustavo Prudencio; Alumno; - ; - 
+Francisco Hernán; Guíñez; 23; Germán Contreras - Felipe Pezoa - Gustavo Prudencio - Luis Leiva - Vicente Juárez; Alumno; - ; - 
+Rodrigo Alberto; Gevert; 22; Camilo López - Octavio Vera - Bastián Mavrakis - Jorge Riesco - Raúl Álvarez; Alumno; - ; - 
+Sharon; Watson; 37; - ; Carabinero; - ; Mr. Hyde 
+Fernando Esteban; Feliú; 20; Octavio Vera - Vicente Juárez - Erick Romero; Alumno; - ; - 
+El; Chuña; 18; Francesca Lucchini - Sebastian Cruz - Felipe Quinteros - Camilo López - José Manuel Larraín - Thomas Brahm - Gabriel Lyon; Funcionario; - ; - 
+Benjamín Ignacio; Martínez; 20; Hans Lobel - Erick Romero - Felipe Quinteros - Isaac Carrera - Francesca Lucchini; Alumno; - ; - 
+Kim; Downs; 37; - ; Carabinero; - ; Dr. Jekyll 
+Marcelo Alejandro; Péndola; 20; Tanya Garrido - Camilo López - Jorge Riesco - Sebastian Cruz - Patricio Diaz - Gustavo Prudencio - Felipe Quinteros; Alumno; - ; - 
+David Esteban; Alarcon; 22; Gustavo Prudencio - José Manuel Larraín - Thomas Brahm - Jurgen Heysen - Raúl Álvarez - Fernando Florenzano - Felipe Quinteros; Alumno; - ; - 
+Javier Ignacio; Dreves; 24; Daniela Flores - Octavio Vera - Hugo Navarrete - Gabriel Lyon; Alumno; - ; - 
+Esteban; Mestre; 20; Ignacio Acevedo - Emilio Gabriele - Camilo López - Jorge Riesco - Gabriel Lyon; Alumno; - ; - 
+Hugo; Navarrete; 33; - ; Vendedor; Mexicana ; - 
+Juan Pablo; González; 23; Tanya Garrido - Sebastian Cruz - Octavio Vera - Francesca Lucchini - Isaac Carrera; Alumno; - ; - 
+Federico José; Brunner; 23; Daniela Flores - Erick Romero - Santiago Torres - Jessica Hormazabal; Alumno; - ; - 
+Juan Guillermo Francisco; Galilea; 20; José Manuel Larraín - Gustavo Prudencio - Luis Leiva - Jorge Riesco; Alumno; - ; - 
+Nebil; Kawas; 27; Sebastian Cruz - Francesca Lucchini - Camilo López - Jurgen Heysen - Jessica Hormazabal - Bastián Mavrakis - Daniela Flores; Funcionario; - ; - 
+Luis Alejandro; Pozas; 23; Jessica Hormazabal - Raúl Álvarez - Thomas Brahm - Hugo Navarrete - Emilio Gabriele - Felipe Pezoa - Jorge Riesco; Alumno; - ; - 
+Gustavo; Prudencio; 18; - ; Vendedor; Mexicana ; - 
+José Manuel; Larraín; 26; - ; Vendedor; Mexicana ; - 
+Jaime Andres; Middleton; 21; Jorge Riesco - Francesca Lucchini - Luis Leiva; Alumno; - ; - 
+Nell; Mercer; 20; - ; Carabinero; - ; Dr. Jekyll 
+Jorge; Riesco; 20; - ; Vendedor; Mexicana ; - 
+Paul Nicholas; Heinsohn; 24; Gabriel Lyon - Hugo Navarrete - Patricio Diaz; Alumno; - ; - 
+fringles; inthestreet; 27; Jorge Riesco - Felipe Pezoa - Tanya Garrido; Funcionario; - ; - 
+Andrés Sebastián; Jahr; 23; Ignacio Acevedo - Jessica Hormazabal - Hugo Navarrete - Jurgen Heysen - Felipe Pezoa; Alumno; - ; - 
+Daniel; Epstein; 22; Tanya Garrido - Gabriel Lyon - Sebastian Cruz - Octavio Vera - Ignacio Acevedo - Hans Lobel - Thomas Brahm; Alumno; - ; - 
+Georgia; Kaufman; 29; - ; Carabinero; - ; Dr. Jekyll 
+Tomas; Salvadores; 26; Emilio Gabriele - Felipe Quinteros - Vicente Juárez - Patricio Diaz; Funcionario; - ; - 
+Alejandra Andrea; Uribe; 22; Patricio Diaz - Felipe Pezoa - Ignacio Acevedo - Santiago Torres - Felipe Quinteros - Tanya Garrido - Germán Contreras; Alumno; - ; - 
+Juan Pablo; Chacon; 22; Hans Lobel - Raúl Álvarez - Gustavo Prudencio - Tanya Garrido - Santiago Torres - Emilio Gabriele - José Manuel Larraín; Alumno; - ; - 
+Vicente Agustín; Vial; 22; Francesca Lucchini - Jorge Riesco - Isaac Carrera; Alumno; - ; - 
+Patricio; De Solminihac; 21; Gabriel Lyon - Tanya Garrido - Daniela Flores - Sebastian Cruz - Gustavo Prudencio; Alumno; - ; - 
+Erick; Romero; 39; - ; Vendedor; China ; - 
+Daniela; Flores; 29; - ; Vendedor; Snack ; - 
+Eden; Morgan; 33; - ; Carabinero; - ; Dr. Jekyll 
+Eduardo Andres; Garrido; 21; Jessica Hormazabal - Patricio Diaz - Vicente Juárez; Alumno; - ; - 
+Fernando; Pieressa; 40; Francesca Lucchini - Sebastian Cruz - Emilio Gabriele - Felipe Pezoa; Funcionario; - ; - 
+Sebastian; Ricke; 22; Camilo López - Hugo Navarrete - Daniela Flores - Vicente Juárez; Alumno; - ; - 
+Alan Sebastian; Kaz; 22; Germán Contreras - Vicente Juárez - Gustavo Prudencio; Alumno; - ; - 
+Rafael Antonio; Abusleme; 20; Camilo López - Hugo Navarrete - Vicente Juárez - Santiago Torres; Alumno; - ; - 
+Fabian Andres; Sepulveda; 22; Bastián Mavrakis - Gabriel Lyon - Tanya Garrido - Octavio Vera; Alumno; - ; - 
+Mauricio José; Gutiérrez; 23; Raúl Álvarez - José Manuel Larraín - Bastián Mavrakis - Felipe Quinteros - Daniela Flores - Santiago Torres - Thomas Brahm; Alumno; - ; - 
+Sebastián Andrés; Barriga; 22; Luis Leiva - Emilio Gabriele - Jorge Riesco - Jessica Hormazabal - Patricio Diaz - Santiago Torres; Alumno; - ; - 
+Nicolás Ignacio; Salgado; 20; Camilo López - Francesca Lucchini - Octavio Vera - Vicente Valencia - Gustavo Prudencio - Bastián Mavrakis; Alumno; - ; - 
+Marcelo Ignacio; Saldías; 20; Gabriel Lyon - Felipe Pezoa - Vicente Valencia - Jurgen Heysen - José Manuel Larraín - Erick Romero; Alumno; - ; - 
+Javier Felipe; Bahamondes; 22; Hugo Navarrete - Bastián Mavrakis - Isaac Carrera - Gustavo Prudencio; Alumno; - ; - 
+Antonia Lucía; Rodríguez; 21; Camilo López - Vicente Juárez - Octavio Vera; Alumno; - ; - 
+Manuel José; Ochagavía; 24; Isaac Carrera - Octavio Vera - Jorge Riesco; Alumno; - ; - 
+Nichole; Burks; 19; - ; Carabinero; - ; Mr. Hyde 
+Patricio; Diaz; 23; - ; Vendedor; Mexicana ; - 
+Gabriel Ángel Matías; Vargas; 20; Ignacio Acevedo - Felipe Pezoa - Vicente Valencia - Felipe Quinteros - Erick Romero - Emilio Gabriele; Alumno; - ; - 
+Ignacio José; Aguirre; 24; Sebastian Cruz - Erick Romero - Gabriel Lyon - Daniela Flores - Jorge Riesco - Tanya Garrido; Alumno; - ; - 
+Sebastian Francisco; Orrego; 24; Gustavo Prudencio - Ignacio Acevedo - Jessica Hormazabal - Tanya Garrido; Alumno; - ; - 
+Ignacio; Campusano; 20; Germán Contreras - Daniela Flores - Bastián Mavrakis - Patricio Diaz - Vicente Valencia - Ignacio Acevedo; Alumno; - ; - 
+Rick; Sánchez; 19; Thomas Brahm - Emilio Gabriele - Santiago Torres - Ignacio Acevedo; Funcionario; - ; - 
+Nicolas Rodrigo Ernesto; Schiefelbein; 21; Germán Contreras - Jorge Riesco - Luis Leiva; Alumno; - ; - 
+Javiera Antonia; Jopia; 24; Francesca Lucchini - Octavio Vera - Germán Contreras - Jorge Riesco; Alumno; - ; - 
+Angel-matias; Morales; 21; Jorge Riesco - Octavio Vera - Gabriel Lyon - Santiago Torres; Alumno; - ; - 
+Martin Orlando; Quevedo; 23; Francesca Lucchini - Fernando Florenzano - Bastián Mavrakis - Patricio Diaz - Jurgen Heysen; Alumno; - ; - 
+José Manuel; Poblete; 21; Patricio Diaz - Tanya Garrido - Emilio Gabriele - Thomas Brahm - Fernando Florenzano - Germán Contreras - Vicente Juárez; Alumno; - ; - 
+Max; Undurraga; 22; Gustavo Prudencio - Tanya Garrido - Santiago Torres - Francesca Lucchini - Thomas Brahm - Vicente Juárez - Sebastian Cruz; Alumno; - ; - 
+Jose Pablo; Dominguez; 20; Vicente Juárez - Gabriel Lyon - Raúl Álvarez - Camilo López - Patricio Diaz - Octavio Vera; Alumno; - ; - 
+Carmen Paz; Rivano; 23; Daniela Flores - Jorge Riesco - Francesca Lucchini - Hans Lobel - Luis Leiva - Tanya Garrido; Alumno; - ; - 
+Alejandro Alfredo; Cifuentes; 21; Patricio Diaz - Daniela Flores - Jurgen Heysen - Francesca Lucchini; Alumno; - ; - 
+Miranda; Patterson; 28; - ; Carabinero; - ; Mr. Hyde 
+Felipe Alberto; Berrios; 20; Daniela Flores - Emilio Gabriele - José Manuel Larraín - Santiago Torres - Gustavo Prudencio; Alumno; - ; - 
+Gabriel; Lyon; 25; - ; Vendedor; China ; - 
+Pablo Agustín; Ovalle; 21; Gabriel Lyon - Fernando Florenzano - Ignacio Acevedo - Sebastian Cruz - Hans Lobel - Gustavo Prudencio - Germán Contreras; Alumno; - ; - 
+Vicente; Juárez; 33; - ; Vendedor; Mexicana ; - 
+Manuel Ignacio; Román; 24; Thomas Brahm - Jessica Hormazabal - Luis Leiva - Jorge Riesco - Daniela Flores - Tanya Garrido - Germán Contreras; Alumno; - ; - 
 Barbara; Mathis; 27; - ; Carabinero; - ; Mr. Hyde 
-Rosario Andrea; Perez; 20; Hugo Navarrete - Erick Romero - Luis Leiva - Camilo López - Isaac Carrera - Raúl Álvarez; Alumno; - ; - 
-Pablo Tomás; Flores; 21; Gabriel Lyon - Thomas Brahm - Fernando Florenzano - Erick Romero; Alumno; - ; - 
-Tomás Andrés; Marín; 23; Francesca Lucchini - Germán Contreras - Bastián Mavrakis - Raúl Álvarez - Vicente Juárez; Alumno; - ; - 
-Sebastian; Cruz; 18; - ; Vendedor; Snack ; - fringles; inthestreet; 34; Felipe Quinteros - Fernando Florenzano - Patricio Diaz - Hugo Navarrete - Hans Lobel - José Manuel Larraín - Emilio Gabriele; Funcionario; - ; - 
-Raúl; Álvarez; 31; - ; Vendedor; Mexicana ; - Fernando; Hurtado; 24; Octavio Vera - Emilio Gabriele - Ignacio Acevedo - José Manuel Larraín; Alumno; - ; - 
-Jorge; Riesco; 32; - ; Vendedor; Mexicana ; - Daniela Alejandra; Concha; 24; Felipe Quinteros - Jurgen Heysen - Francesca Lucchini - Jessica Hormazabal - Daniela Flores; Alumno; - ; - 
-Vicente Ignacio; Muñoz; 20; Jessica Hormazabal - José Manuel Larraín - Gustavo Prudencio - Hugo Navarrete - Ignacio Acevedo - Fernando Florenzano - Raúl Álvarez; Alumno; - ; - 
-Victoria Sofia; Matthews; 20; Gustavo Prudencio - Jorge Riesco - Germán Contreras - Felipe Quinteros - Luis Leiva - Jurgen Heysen - Vicente Juárez; Alumno; - ; - 
-Vicente; Valencia; 27; - ; Vendedor; Snack ; - Javier Ignacio; Dreves; 21; Hugo Navarrete - Santiago Torres - Jurgen Heysen; Alumno; - ; - 
-Wenyi; He; 20; Felipe Quinteros - Germán Contreras - Thomas Brahm - Hans Lobel; Alumno; - ; - 
-Enrique; Waugh; 23; Thomas Brahm - Hans Lobel - Francesca Lucchini - Isaac Carrera; Alumno; - ; - 
-Mauricio Jose; Valdivia; 22; Jessica Hormazabal - Patricio Diaz - Tanya Garrido; Alumno; - ; - 
-Miranda; Patterson; 39; - ; Carabinero; - ; Mr. Hyde 
-Alberto; Castro; 22; Gustavo Prudencio - Luis Leiva - Germán Contreras - Vicente Valencia - Gabriel Lyon; Alumno; - ; - 
-Valentina Paz; Barrera; 21; Hugo Navarrete - Fernando Florenzano - Jorge Riesco - Emilio Gabriele; Alumno; - ; - 
-Diego Eduardo; Pedraza; 21; Thomas Brahm - Hans Lobel - Gabriel Lyon - Fernando Florenzano - Raúl Álvarez - Luis Leiva; Alumno; - ; - 
-Cristóbal Jesús; Muñoz; 21; Germán Contreras - Vicente Juárez - Raúl Álvarez - Camilo López - Fernando Florenzano; Alumno; - ; - 
-Felipe Alberto; Berrios; 20; Raúl Álvarez - Octavio Vera - Ignacio Acevedo - Hans Lobel; Alumno; - ; - 
-Pablo Ignacio; Olea; 24; Gustavo Prudencio - Erick Romero - Francesca Lucchini - Germán Contreras - Gabriel Lyon - Vicente Juárez - Felipe Quinteros; Alumno; - ; - 
-Diego Andrés; Alfaro; 22; Raúl Álvarez - Francesca Lucchini - Germán Contreras - Fernando Florenzano; Alumno; - ; - 
-Rolf; Sommer; 23; Thomas Brahm - Erick Romero - Jurgen Heysen - Isaac Carrera - Camilo López - Felipe Pezoa; Alumno; - ; - 
-Ignacio; Campusano; 23; Jurgen Heysen - Gustavo Prudencio - Gabriel Lyon; Alumno; - ; - 
-; ; 24; Daniela Flores - José Manuel Larraín - Luis Leiva - Santiago Torres; Alumno; - ; - 
-Juan Guillermo Francisco; Galilea; 23; Emilio Gabriele - Felipe Pezoa - Ignacio Acevedo; Alumno; - ; - 
-Jurgen; Heysen; 33; - ; Vendedor; Snack ; - Diego Ignacio; Quezada; 20; Felipe Quinteros - Isaac Carrera - Felipe Pezoa - Fernando Florenzano - José Manuel Larraín - Jurgen Heysen - Jorge Riesco; Alumno; - ; - 
-Sebastian Francisco; Orrego; 21; Emilio Gabriele - Francesca Lucchini - Daniela Flores; Alumno; - ; - 
-Sebastian Andres; Velozo; 24; Daniela Flores - Santiago Torres - Jessica Hormazabal - Camilo López - Hans Lobel; Alumno; - ; - 
-David Esteban; Alarcon; 23; Emilio Gabriele - Bastián Mavrakis - Isaac Carrera - Erick Romero - Thomas Brahm - José Manuel Larraín; Alumno; - ; - 
-Denisse Vaitiare; Ogaz; 22; Tanya Garrido - Ignacio Acevedo - Octavio Vera; Alumno; - ; - 
-José Valentín; Lara; 24; Tanya Garrido - Jessica Hormazabal - Sebastian Cruz - Francesca Lucchini; Alumno; - ; - 
-Jaime Andres; Middleton; 20; Camilo López - Octavio Vera - Hugo Navarrete - Vicente Juárez - Jurgen Heysen - Jessica Hormazabal - Patricio Diaz; Alumno; - ; - 
-Gonzalo; Bello; 23; Hans Lobel - Jessica Hormazabal - Bastián Mavrakis - Germán Contreras - Vicente Juárez - Hugo Navarrete; Alumno; - ; - 
-Bastián; Mavrakis; 22; - ; Vendedor; China ; - José Manuel; Poblete; 24; Hans Lobel - Tanya Garrido - Germán Contreras; Alumno; - ; - 
-Felipe Ignacio; Villagran; 20; Vicente Juárez - Hans Lobel - Jurgen Heysen - Francesca Lucchini - Emilio Gabriele - Bastián Mavrakis; Alumno; - ; - 
-Gustavo; Prudencio; 34; - ; Vendedor; Mexicana ; - Diego Ignacio; Álvarez; 22; Luis Leiva - Camilo López - Gustavo Prudencio - Gabriel Lyon - Jurgen Heysen - Germán Contreras - Emilio Gabriele; Alumno; - ; - 
-Lucas; Valenzuela; 38; Thomas Brahm - Isaac Carrera - Daniela Flores; Funcionario; - ; - 
-Nicolas Raul; Riquelme; 20; Daniela Flores - Jorge Riesco - Gabriel Lyon - Francesca Lucchini - Jessica Hormazabal - Jurgen Heysen; Alumno; - ; - 
-Omar Eduardo; Bravo; 24; Gustavo Prudencio - Bastián Mavrakis - Vicente Valencia; Alumno; - ; - 
-Marcelo; Lagos; 27; Felipe Pezoa - Santiago Torres - Isaac Carrera - Hugo Navarrete - Vicente Juárez - Jessica Hormazabal - Tanya Garrido; Funcionario; - ; - 
-Clemente; Guasch; 21; Hugo Navarrete - Camilo López - Fernando Florenzano - Tanya Garrido - Hans Lobel - Isaac Carrera - Gustavo Prudencio; Alumno; - ; - 
-Ramiro Javier; Galvez; 21; Vicente Valencia - Vicente Juárez - Bastián Mavrakis - Gustavo Prudencio - Ignacio Acevedo - Gabriel Lyon; Alumno; - ; - 
-Sebastián Luis; Bitar; 24; Gabriel Lyon - Santiago Torres - Jorge Riesco - Jurgen Heysen - José Manuel Larraín - Emilio Gabriele; Alumno; - ; - 
-Noemí Isabo; Crosby; 20; Tanya Garrido - Vicente Valencia - Thomas Brahm - Octavio Vera - Gabriel Lyon; Alumno; - ; - 
-Rodrigo Ignacio; Hanuch; 21; Felipe Pezoa - Vicente Valencia - Vicente Juárez - José Manuel Larraín; Alumno; - ; - 
-Beatriz Elisa; Gaete; 23; Hugo Navarrete - Thomas Brahm - Jurgen Heysen; Alumno; - ; - 
-Daniel Alejandro; Vives; 23; José Manuel Larraín - Vicente Juárez - Felipe Quinteros - Francesca Lucchini - Jorge Riesco - Thomas Brahm - Jessica Hormazabal; Alumno; - ; - 
-Ignacio José; Aguirre; 24; Fernando Florenzano - Felipe Quinteros - Sebastian Cruz - Santiago Torres - Camilo López; Alumno; - ; - 
-Felipe Andrés; Sánchez; 21; Daniela Flores - Isaac Carrera - Germán Contreras; Alumno; - ; - 
-Ivania; Donoso; 33; Camilo López - Raúl Álvarez - Thomas Brahm; Funcionario; - ; - 
-Federico Andres; Taladriz; 22; Luis Leiva - Patricio Diaz - Tanya Garrido - Daniela Flores; Alumno; - ; - 
-José; Campino; 24; Emilio Gabriele - Patricio Diaz - Santiago Torres - Luis Leiva - Jessica Hormazabal - Thomas Brahm - Bastián Mavrakis; Alumno; - ; - 
-Werner Alexander; Knaudt; 23; Hugo Navarrete - Octavio Vera - Santiago Torres - Gustavo Prudencio; Alumno; - ; - 
-Gabriel Ángel Matías; Vargas; 24; Hans Lobel - Felipe Quinteros - Erick Romero - Bastián Mavrakis - Santiago Torres - Hugo Navarrete; Alumno; - ; - 
-Camila; Fernandez; 22; Ignacio Acevedo - Gustavo Prudencio - Daniela Flores; Alumno; - ; - 
-Paula; Salvo; 18; Gabriel Lyon - Tanya Garrido - Germán Contreras - José Manuel Larraín; Funcionario; - ; - 
-Patricio; Diaz; 22; - ; Vendedor; Snack ; - Matias Ignacio; Galleguillos; 24; Sebastian Cruz - Santiago Torres - Fernando Florenzano - Germán Contreras - Emilio Gabriele - Hans Lobel; Alumno; - ; - 
-Javier Omar; Tramon; 24; Emilio Gabriele - Erick Romero - Gustavo Prudencio - Ignacio Acevedo - Fernando Florenzano - Tanya Garrido; Alumno; - ; - 
-Javier Felipe; Bahamondes; 23; Vicente Juárez - Santiago Torres - Germán Contreras; Alumno; - ; - 
-Camilo Ignacio; Berríos; 20; Raúl Álvarez - Gustavo Prudencio - Octavio Vera - Vicente Juárez - Luis Leiva - Jessica Hormazabal - Felipe Quinteros; Alumno; - ; - 
-Hans; Lobel; 26; - ; Vendedor; Snack ; - Patricia Alejandra; Silva; 20; Jorge Riesco - Hans Lobel - Erick Romero - Jessica Hormazabal - Germán Contreras - Luis Leiva; Alumno; - ; - 
-Nicolás Alejandro; Parraguez; 20; Felipe Quinteros - Santiago Torres - Patricio Diaz; Alumno; - ; - 
-Sebastián Antonio; Sotomayor; 22; Germán Contreras - Hans Lobel - Thomas Brahm; Alumno; - ; - 
-Víctor Ariel; Marambio; 20; Daniela Flores - Patricio Diaz - Germán Contreras; Alumno; - ; - 
-Diego Hernán; Echeverría; 21; Jurgen Heysen - Felipe Quinteros - Raúl Álvarez - Daniela Flores; Alumno; - ; - 
-Paul Nicholas; Heinsohn; 20; Isaac Carrera - Daniela Flores - Felipe Quinteros - Bastián Mavrakis - Octavio Vera; Alumno; - ; - 
-Santiago; Torres; 37; - ; Vendedor; China ; - Macarena Monica; Peña; 20; Ignacio Acevedo - Raúl Álvarez - José Manuel Larraín - Fernando Florenzano - Patricio Diaz - Santiago Torres - Camilo López; Alumno; - ; - 
-Leslie; Wilkins; 25; - ; Carabinero; - ; Mr. Hyde 
-Cristóbal Ignacio; Rey; 24; Gabriel Lyon - Tanya Garrido - Jessica Hormazabal - Erick Romero - Sebastian Cruz - Felipe Pezoa - Camilo López; Alumno; - ; - 
-﻿Jesús; De Nazaret; 37; José Manuel Larraín - Daniela Flores - Isaac Carrera - Camilo López; Funcionario; - ; - 
-Frodo; Baggins; 20; Octavio Vera - Hans Lobel - Emilio Gabriele - Sebastian Cruz - Patricio Diaz - Germán Contreras; Funcionario; - ; - 
-Luis Alberto; Loyola; 20; Isaac Carrera - Gustavo Prudencio - Jurgen Heysen; Alumno; - ; - 
-Camilo Esteban; García; 24; Hans Lobel - Francesca Lucchini - Jorge Riesco; Alumno; - ; - 
-Matías Nicolás; Reyes; 24; José Manuel Larraín - Gabriel Lyon - Emilio Gabriele - Ignacio Acevedo - Vicente Valencia; Alumno; - ; - 
-Luna ; Lovegood; 27; Gabriel Lyon - Vicente Juárez - Vicente Valencia - Octavio Vera; Funcionario; - ; - 
-Javier Ignacio; Ruiz; 24; Raúl Álvarez - Luis Leiva - Francesca Lucchini - Emilio Gabriele; Alumno; - ; - 
-Jorge Alfredo; Requena; 21; Isaac Carrera - Jurgen Heysen - Camilo López - Germán Contreras - Erick Romero; Alumno; - ; - 
-Henry; Boys; 34; Octavio Vera - Jorge Riesco - Emilio Gabriele; Funcionario; - ; - 
-Ian; Fieldhouse; 22; Gustavo Prudencio - Daniela Flores - Luis Leiva - Gabriel Lyon; Alumno; - ; - 
-Ignacio; Contreras; 21; Gabriel Lyon - Felipe Pezoa - Octavio Vera - Bastián Mavrakis - Camilo López - Jessica Hormazabal; Alumno; - ; - 
-Marcelo Alejandro; Péndola; 23; Felipe Quinteros - Tanya Garrido - Hans Lobel; Alumno; - ; - 
-Tanya; Garrido; 30; - ; Vendedor; Mexicana ; - Tomas Vicente; Harris; 21; Felipe Quinteros - Francesca Lucchini - Fernando Florenzano - José Manuel Larraín - Thomas Brahm - Jessica Hormazabal; Alumno; - ; - 
-Daniel; Epstein; 24; Vicente Valencia - Jurgen Heysen - Patricio Diaz - Germán Contreras - Santiago Torres - Thomas Brahm - Gustavo Prudencio; Alumno; - ; - 
-Benjamin Ian; Earle; 20; Isaac Carrera - Francesca Lucchini - Camilo López - Jurgen Heysen - Santiago Torres - Bastián Mavrakis; Alumno; - ; - 
-Juan Pablo; Moraga; 21; Ignacio Acevedo - Hans Lobel - Daniela Flores - Santiago Torres - Isaac Carrera; Alumno; - ; - 
-José Agustín; Díaz; 21; Tanya Garrido - Thomas Brahm - Daniela Flores - Gabriel Lyon - Luis Leiva - Fernando Florenzano - Patricio Diaz; Alumno; - ; - 
-Juan Guillermo; Espinosa; 20; Fernando Florenzano - Germán Contreras - Hans Lobel; Alumno; - ; - 
-Felipe Eduardo; Apablaza; 24; Erick Romero - Bastián Mavrakis - Thomas Brahm - Daniela Flores - Felipe Pezoa - Hans Lobel; Alumno; - ; - 
-Cristobal Andres; Espinoza; 24; Santiago Torres - Ignacio Acevedo - Tanya Garrido - Hans Lobel; Alumno; - ; - 
-Chafic Salvador; Abumohor; 22; Isaac Carrera - Francesca Lucchini - Felipe Quinteros - Tanya Garrido - Raúl Álvarez; Alumno; - ; - 
-Moises Matias; Saavedra; 23; Gabriel Lyon - Jessica Hormazabal - Hugo Navarrete - Sebastian Cruz; Alumno; - ; - 
-David Ignacio; Alfaro; 23; Jurgen Heysen - Vicente Valencia - Erick Romero; Alumno; - ; - 
-Rodrigo Alberto; Gevert; 21; Tanya Garrido - Germán Contreras - Thomas Brahm - Erick Romero - Daniela Flores - Jessica Hormazabal - Fernando Florenzano; Alumno; - ; - 
-Constanza Sofía; Ravanal; 22; Fernando Florenzano - Felipe Pezoa - Hugo Navarrete - Sebastian Cruz - Camilo López; Alumno; - ; - 
-Carla Daniela; Lepe; 21; Raúl Álvarez - Tanya Garrido - Daniela Flores - Jorge Riesco - Germán Contreras; Alumno; - ; - 
-Henry; Blair; 20; Hans Lobel - Camilo López - Jorge Riesco - Raúl Álvarez - Gabriel Lyon - Hugo Navarrete - Fernando Florenzano; Alumno; - ; - 
-Lucas Oscar Manuel; Otarola; 24; Felipe Quinteros - Thomas Brahm - Germán Contreras; Alumno; - ; - 
-Yerko Antonio; Chávez; 20; Emilio Gabriele - Raúl Álvarez - Isaac Carrera - Felipe Pezoa; Alumno; - ; - 
-Josefina; Bengoa; 22; Daniela Flores - Erick Romero - Jessica Hormazabal - Emilio Gabriele - Jurgen Heysen; Alumno; - ; - 
-Vicente Enrique; Lubascher; 24; Erick Romero - Tanya Garrido - Fernando Florenzano - Sebastian Cruz; Alumno; - ; - 
-Patrick Andreas; Liedtke; 22; Emilio Gabriele - Isaac Carrera - José Manuel Larraín - Daniela Flores - Jorge Riesco - Francesca Lucchini; Alumno; - ; - 
-Sterling; Archer; 23; Sebastian Cruz - Vicente Valencia - Emilio Gabriele - Felipe Pezoa - Thomas Brahm; Funcionario; - ; - 
-Thomas; Brahm; 32; - ; Vendedor; China ; - Javiera Alejandra; Ferrada; 24; Sebastian Cruz - Patricio Diaz - Ignacio Acevedo - José Manuel Larraín - Isaac Carrera - Gabriel Lyon; Alumno; - ; - 
-Sebastián Andrés; Barriga; 23; Isaac Carrera - Hugo Navarrete - Gabriel Lyon - Erick Romero - Ignacio Acevedo - Vicente Juárez; Alumno; - ; - 
-Eduardo Andres; Garrido; 20; Hugo Navarrete - Tanya Garrido - Santiago Torres - Thomas Brahm; Alumno; - ; - 
-Hugo; Navarrete; 39; - ; Vendedor; China ; - Jose Pablo; Dominguez; 22; Vicente Juárez - Gustavo Prudencio - José Manuel Larraín - Emilio Gabriele - Thomas Brahm - Isaac Carrera - Tanya Garrido; Alumno; - ; - 
-Valeria Alejandra; Adasme; 21; Francesca Lucchini - José Manuel Larraín - Vicente Valencia - Tanya Garrido - Patricio Diaz; Alumno; - ; - 
-Nichole; Burks; 30; - ; Carabinero; - ; Mr. Hyde 
-Alan Sebastian; Kaz; 20; Daniela Flores - Hugo Navarrete - Santiago Torres - Isaac Carrera; Alumno; - ; - 
-Germán; Contreras; 27; - ; Vendedor; China ; - Sebastian Ignacio; Montoya; 24; Jessica Hormazabal - José Manuel Larraín - Ignacio Acevedo - Isaac Carrera - Felipe Quinteros; Alumno; - ; - 
-Matías Ignacio; Echeverría; 23; Gustavo Prudencio - Daniela Flores - Emilio Gabriele - Jurgen Heysen - Felipe Pezoa - Raúl Álvarez; Alumno; - ; - 
-Vicente Javier; Aguilera; 22; Camilo López - Vicente Juárez - Daniela Flores - Santiago Torres - Thomas Brahm; Alumno; - ; - 
-Teegan; Petersen; 22; - ; Carabinero; - ; Mr. Hyde 
-Tomas; Rivera; 20; Santiago Torres - Felipe Quinteros - Luis Leiva; Alumno; - ; - 
-Ignacio Nicolas; Madariaga; 22; Octavio Vera - Luis Leiva - Gabriel Lyon - Fernando Florenzano - José Manuel Larraín - Jessica Hormazabal - Jorge Riesco; Alumno; - ; - 
-Benjamín Ignacio; Martínez; 22; Erick Romero - Vicente Juárez - Luis Leiva - Thomas Brahm - Daniela Flores - Felipe Pezoa - Santiago Torres; Alumno; - ; - 
-Leonardo Enrique; Olivares; 21; Bastián Mavrakis - Patricio Diaz - Vicente Juárez; Alumno; - ; - 
-Vicente; Juárez; 19; - ; Vendedor; China ; - Nicolás Ignacio; Salgado; 22; Sebastian Cruz - Raúl Álvarez - Gabriel Lyon - Patricio Diaz - Francesca Lucchini - Jessica Hormazabal; Alumno; - ; - 
-Benjamin; Straub; 22; Luis Leiva - Camilo López - Isaac Carrera - Fernando Florenzano - Gabriel Lyon - Hugo Navarrete; Alumno; - ; - 
-Matias Esteban; Coloma; 22; Camilo López - Vicente Juárez - Isaac Carrera - Gabriel Lyon - José Manuel Larraín - Tanya Garrido; Alumno; - ; - 
-Benjamin Ivan; Dominguez; 22; Francesca Lucchini - Erick Romero - Hans Lobel; Alumno; - ; - 
-Vicente Nicolás; Díaz; 21; Hans Lobel - Daniela Flores - Vicente Juárez - Jorge Riesco - Germán Contreras - Patricio Diaz; Alumno; - ; - 
-Martin; Ramirez; 23; Jorge Riesco - Erick Romero - Jessica Hormazabal - Vicente Valencia; Alumno; - ; - 
-Pablo Antonio; Barría; 23; Gabriel Lyon - Jurgen Heysen - Patricio Diaz; Alumno; - ; - 
-Francisco Hernán; Guíñez; 24; Tanya Garrido - Erick Romero - Germán Contreras - Jessica Hormazabal - Vicente Valencia - Raúl Álvarez; Alumno; - ; - 
-Dora; Mcpherson; 36; - ; Carabinero; - ; Dr. Jekyll 
-Octavio; Vera; 32; - ; Vendedor; Snack ; - Francesca; Lucchini; 19; - ; Vendedor; China ; - Manuel Ignacio; Román; 20; Camilo López - Gustavo Prudencio - Thomas Brahm - Ignacio Acevedo - Luis Leiva - Daniela Flores - Jurgen Heysen; Alumno; - ; - 
-Nicolas Rodrigo Ernesto; Schiefelbein; 21; Felipe Pezoa - José Manuel Larraín - Hans Lobel - Emilio Gabriele - Gustavo Prudencio - Gabriel Lyon - Jurgen Heysen; Alumno; - ; - 
-Jeremías Andrés; Molina; 21; Camilo López - Hans Lobel - Jurgen Heysen - Emilio Gabriele - Luis Leiva - Francesca Lucchini - Vicente Juárez; Alumno; - ; - 
-Daniel; Zupeuc; 24; Erick Romero - Felipe Pezoa - Bastián Mavrakis - Octavio Vera; Alumno; - ; - 
-Alejandro Alfredo; Cifuentes; 21; Thomas Brahm - Vicente Juárez - Emilio Gabriele; Alumno; - ; - 
-Santiago Jorge; Muñoz; 20; Vicente Valencia - Gustavo Prudencio - Isaac Carrera; Alumno; - ; - 
-Emilio; Gabriele; 29; - ; Vendedor; Snack ; - Nicolas Alejandro; Vargas; 20; Isaac Carrera - Octavio Vera - Felipe Pezoa - Felipe Quinteros - Thomas Brahm - Vicente Juárez - Hans Lobel; Alumno; - ; - 
-Daniel; Lyon; 20; Isaac Carrera - Santiago Torres - Fernando Florenzano - Sebastian Cruz; Alumno; - ; - 
-Nicolas Ignacio; Morales; 22; Jessica Hormazabal - Germán Contreras - Gabriel Lyon; Alumno; - ; - 
-Juan Pablo; González; 22; Camilo López - Jurgen Heysen - Octavio Vera; Alumno; - ; - 
-Erick; Romero; 35; - ; Vendedor; Mexicana ; - Franco Gabriel; Bruña; 23; Hans Lobel - Camilo López - Santiago Torres - Germán Contreras - Vicente Valencia; Alumno; - ; - 
-Andrés; Fernández; 33; Erick Romero - Tanya Garrido - Jessica Hormazabal - Daniela Flores - Hugo Navarrete - Raúl Álvarez; Funcionario; - ; - 
-Tomás Andrés; Valenzuela; 22; Isaac Carrera - Vicente Juárez - Daniela Flores - Jorge Riesco - Tanya Garrido; Alumno; - ; - 
-José Manuel; Larraín; 22; - ; Vendedor; China ; - Diego; Molina; 21; Fernando Florenzano - Gabriel Lyon - Luis Leiva - Erick Romero - Santiago Torres; Alumno; - ; - 
-Felipe; Quinteros; 33; - ; Vendedor; China ; - Matías Felipe; Bruna; 21; Tanya Garrido - Gabriel Lyon - Emilio Gabriele - Sebastian Cruz - Germán Contreras - Raúl Álvarez; Alumno; - ; - 
-Felipe Ignacio; Hanckes; 23; Luis Leiva - Gabriel Lyon - Daniela Flores - Jurgen Heysen; Alumno; - ; - 
-Felipe Alejandro Eduardo; Cornejo; 20; Thomas Brahm - Felipe Quinteros - Germán Contreras - Luis Leiva - Felipe Pezoa - Ignacio Acevedo - Octavio Vera; Alumno; - ; - 
-Felipe Carlos; Jiménez; 23; Isaac Carrera - Jurgen Heysen - Patricio Diaz - Jessica Hormazabal; Alumno; - ; - 
-Hakalamax; Atalapastruka; 38; Hugo Navarrete - Fernando Florenzano - Vicente Juárez - Octavio Vera; Funcionario; - ; - 
-Jeronimo Nicolas; Salazar; 23; Hans Lobel - Tanya Garrido - Ignacio Acevedo - Jessica Hormazabal - Raúl Álvarez - Erick Romero; Alumno; - ; - 
-Carmen Paz; Rivano; 23; Hans Lobel - Felipe Quinteros - Octavio Vera - Jorge Riesco; Alumno; - ; - 
-Ignacio; Acevedo; 27; - ; Vendedor; Snack ; - Sebastián Ignacio; Carreño; 21; Raúl Álvarez - Isaac Carrera - Daniela Flores - Hugo Navarrete; Alumno; - ; - 
-Antonio Alejandro; Muñoz; 22; Octavio Vera - Sebastian Cruz - Erick Romero - Raúl Álvarez - Bastián Mavrakis - Ignacio Acevedo - Jessica Hormazabal; Alumno; - ; - 
-Javiera Andrea; Neira; 22; Thomas Brahm - Bastián Mavrakis - Ignacio Acevedo - Jessica Hormazabal - Gustavo Prudencio - Sebastian Cruz; Alumno; - ; - 
-Sharon; Watson; 33; - ; Carabinero; - ; Dr. Jekyll 
-Tien; Villalobos; 24; Raúl Álvarez - Felipe Quinteros - Santiago Torres - Erick Romero - Thomas Brahm - Patricio Diaz - Ignacio Acevedo; Alumno; - ; - 
-Julio Ignacio; Huerta; 20; Isaac Carrera - Germán Contreras - Hugo Navarrete - Patricio Diaz - Hans Lobel - Felipe Pezoa; Alumno; - ; - 
-Marcelo Ignacio; Saldías; 23; Luis Leiva - Gustavo Prudencio - Patricio Diaz; Alumno; - ; - 
-Patricio; De Solminihac; 21; Vicente Valencia - Vicente Juárez - Isaac Carrera - Raúl Álvarez; Alumno; - ; - 
-Felipe Javier; Álvarez; 24; Fernando Florenzano - Vicente Valencia - Vicente Juárez - Raúl Álvarez - Jessica Hormazabal - Jorge Riesco; Alumno; - ; - 
-Fernando Esteban; Feliú; 22; Fernando Florenzano - José Manuel Larraín - Felipe Quinteros - Thomas Brahm; Alumno; - ; - 
-Francisco Javier; Barros; 21; Camilo López - Felipe Pezoa - Sebastian Cruz - Isaac Carrera - Hans Lobel; Alumno; - ; - 
-Jessica; Hormazabal; 21; - ; Vendedor; China ; - Mariana Valentina; Ortega; 20; Patricio Diaz - Gabriel Lyon - Ignacio Acevedo - José Manuel Larraín; Alumno; - ; - 
-Daniela; Flores; 29; - ; Vendedor; China ; - Antonia Lucía; Rodríguez; 21; Ignacio Acevedo - Daniela Flores - Jessica Hormazabal - Fernando Florenzano - Raúl Álvarez - Vicente Valencia; Alumno; - ; - 
-Nebil; Kawas; 19; Raúl Álvarez - Tanya Garrido - Santiago Torres - Sebastian Cruz - Gustavo Prudencio - Felipe Pezoa - Fernando Florenzano; Funcionario; - ; - 
-Marcelo Ignacio; Escudero; 23; Thomas Brahm - Isaac Carrera - Raúl Álvarez - Daniela Flores - Tanya Garrido - Emilio Gabriele; Alumno; - ; - 
-Eitan; Dvorquez; 22; Patricio Diaz - Raúl Álvarez - Francesca Lucchini - Felipe Pezoa - Vicente Valencia - Bastián Mavrakis - Camilo López; Alumno; - ; - 
-Alejandra Andrea; Uribe; 23; Felipe Quinteros - Octavio Vera - Germán Contreras - Ignacio Acevedo - Raúl Álvarez; Alumno; - ; - 
-Manuel José; Ochagavía; 24; Daniela Flores - Patricio Diaz - Erick Romero - Luis Leiva - Jessica Hormazabal; Alumno; - ; - 
-Sarah Virginia; Everke; 23; Raúl Álvarez - Thomas Brahm - Felipe Pezoa - Isaac Carrera - Vicente Valencia - Hugo Navarrete; Alumno; - ; - 
-Quynn; Carrillo; 38; - ; Carabinero; - ; Mr. Hyde 
-Morty; Smith; 28; Bastián Mavrakis - Octavio Vera - Santiago Torres - Tanya Garrido - Ignacio Acevedo; Funcionario; - ; - 
-Justin; Frederick; 34; - ; Carabinero; - ; Mr. Hyde 
-Eden; Morgan; 19; - ; Carabinero; - ; Mr. Hyde 
-Mitchell Ignacio; Vera; 21; Ignacio Acevedo - Raúl Álvarez - Felipe Pezoa - Vicente Valencia; Alumno; - ; - 
-Georgia; Kaufman; 27; - ; Carabinero; - ; Dr. Jekyll 
-Hernán; Valdivieso; 21; Emilio Gabriele - Tanya Garrido - Hugo Navarrete; Funcionario; - ; - 
-Tiare Ninoska; Nova; 24; Vicente Juárez - Jessica Hormazabal - Bastián Mavrakis; Alumno; - ; - 
-Diego Antonio; Caroca; 22; Sebastian Cruz - Germán Contreras - Felipe Quinteros; Alumno; - ; - 
-Alejandro; Kaminetzky; 30; Santiago Torres - Octavio Vera - Jessica Hormazabal - Fernando Florenzano - Gabriel Lyon - José Manuel Larraín - Ignacio Acevedo; Funcionario; - ; - 
-Barbara Mariana; Espinoza; 24; Camilo López - Jurgen Heysen - Erick Romero - Octavio Vera - José Manuel Larraín - Luis Leiva - Fernando Florenzano; Alumno; - ; - 
-Vaughan; Park; 32; - ; Carabinero; - ; Mr. Hyde 
+Santiago Jorge; Muñoz; 21; Raúl Álvarez - José Manuel Larraín - Gabriel Lyon - Daniela Flores - Hugo Navarrete - Octavio Vera - Bastián Mavrakis; Alumno; - ; - 
+Martin Felix; Anselmo; 20; Germán Contreras - Emilio Gabriele - Fernando Florenzano - Francesca Lucchini - Hugo Navarrete - Jorge Riesco - Erick Romero; Alumno; - ; - 
+Ignacio; Contreras; 20; Felipe Quinteros - Isaac Carrera - Octavio Vera - Fernando Florenzano; Alumno; - ; - 
+Andrés Ignacio; Lyon; 23; Tanya Garrido - Jurgen Heysen - Raúl Álvarez - Emilio Gabriele - Bastián Mavrakis; Alumno; - ; - 
+Hans; Lobel; 27; - ; Vendedor; China ; - 
+Ignacio; Acevedo; 29; - ; Vendedor; China ; - 
+Vaughan; Park; 18; - ; Carabinero; - ; Dr. Jekyll 
+Nicolás; Maturana; 20; Octavio Vera - Santiago Torres - Isaac Carrera - Tanya Garrido - Thomas Brahm - Fernando Florenzano; Alumno; - ; - 
+Felipe Andrés; Sánchez; 20; Sebastian Cruz - Tanya Garrido - Octavio Vera - Felipe Pezoa - Jurgen Heysen - José Manuel Larraín; Alumno; - ; - 
+Ramiro Javier; Galvez; 20; Erick Romero - Germán Contreras - Patricio Diaz - Sebastian Cruz - Gabriel Lyon - Santiago Torres; Alumno; - ; - 
+Valeria Alejandra; Adasme; 20; Isaac Carrera - Emilio Gabriele - Thomas Brahm - Fernando Florenzano - Gabriel Lyon; Alumno; - ; - 
+Nicolás Alonso; Azócar; 22; Santiago Torres - Felipe Pezoa - Gabriel Lyon - Jessica Hormazabal - Luis Leiva - Emilio Gabriele; Alumno; - ; - 
+Vicente Alfredo; Etchegaray; 20; Daniela Flores - Emilio Gabriele - Erick Romero; Alumno; - ; - 
+; ; 20; Luis Leiva - Isaac Carrera - Daniela Flores - Ignacio Acevedo; Alumno; - ; - 
+Tiare Ninoska; Nova; 22; Felipe Quinteros - Thomas Brahm - Germán Contreras - Daniela Flores - Emilio Gabriele - Erick Romero - Raúl Álvarez; Alumno; - ; - 
+Lucas Oscar Manuel; Otarola; 20; Camilo López - Bastián Mavrakis - Raúl Álvarez - Emilio Gabriele - Vicente Juárez - Vicente Valencia; Alumno; - ; - 
+Camilo Esteban; García; 22; Fernando Florenzano - Ignacio Acevedo - Erick Romero - Vicente Valencia - Vicente Juárez - Jessica Hormazabal; Alumno; - ; - 
+Camilo; López; 35; - ; Vendedor; Mexicana ; - 
+Felipe; Pezoa; 26; - ; Vendedor; Snack ; - 
+Mariana Valentina; Ortega; 20; Tanya Garrido - Gustavo Prudencio - Thomas Brahm - Jurgen Heysen - Vicente Valencia - Octavio Vera; Alumno; - ; - 
+Tanya; Garrido; 20; - ; Vendedor; China ; - 
+Diego Ignacio; Quezada; 24; Santiago Torres - Ignacio Acevedo - Fernando Florenzano - José Manuel Larraín - Camilo López - Luis Leiva; Alumno; - ; - 
+Clemente; Guasch; 23; Isaac Carrera - Felipe Quinteros - Jurgen Heysen; Alumno; - ; - 
+Rolf; Sommer; 23; Francesca Lucchini - Felipe Quinteros - Vicente Valencia - Germán Contreras - Tanya Garrido; Alumno; - ; - 
+Fernando Antonio; Alfaro; 24; Gabriel Lyon - Hugo Navarrete - Fernando Florenzano - Felipe Pezoa - Germán Contreras - Isaac Carrera - Bastián Mavrakis; Alumno; - ; - 
+Bastián; Mavrakis; 39; - ; Vendedor; China ; - 
+Martin; Ramirez; 22; Jurgen Heysen - Gabriel Lyon - Felipe Quinteros - Hans Lobel - Santiago Torres - Gustavo Prudencio; Alumno; - ; - 
+Felipe Ignacio; Villagran; 23; Jurgen Heysen - Bastián Mavrakis - Vicente Valencia - Erick Romero - Germán Contreras - Patricio Diaz - Camilo López; Alumno; - ; - 
+Benjamín Ismael; Rivera; 22; Felipe Pezoa - Vicente Juárez - Tanya Garrido - Fernando Florenzano; Alumno; - ; - 
+Daniela Alejandra; Concha; 23; Thomas Brahm - Felipe Quinteros - Tanya Garrido - Felipe Pezoa; Alumno; - ; - 
+Felipe; Dominguez; 24; Daniela Flores - Jessica Hormazabal - Thomas Brahm - Felipe Quinteros - José Manuel Larraín - Bastián Mavrakis; Funcionario; - ; - 
+Diego Antonio; Caroca; 24; Raúl Álvarez - Felipe Pezoa - José Manuel Larraín - Camilo López - Ignacio Acevedo - Daniela Flores; Alumno; - ; - 
+Jeronimo Nicolas; Salazar; 20; Fernando Florenzano - Isaac Carrera - Gabriel Lyon - Jessica Hormazabal - Santiago Torres - Thomas Brahm; Alumno; - ; - 
+Daniel; Lyon; 20; Sebastian Cruz - Fernando Florenzano - Emilio Gabriele; Alumno; - ; - 
+Alberto; Chadwick; 23; Isaac Carrera - Gustavo Prudencio - Hans Lobel - Octavio Vera; Alumno; - ; - 
+Rodrigo Ignacio; Hanuch; 20; Thomas Brahm - Jorge Riesco - Ignacio Acevedo - Isaac Carrera; Alumno; - ; - 
+Benjamín; León; 22; Germán Contreras - Bastián Mavrakis - Gustavo Prudencio; Alumno; - ; - 
+Felipe Alejandro Eduardo; Cornejo; 22; Ignacio Acevedo - Gustavo Prudencio - Patricio Diaz - Raúl Álvarez - Octavio Vera - Bastián Mavrakis; Alumno; - ; - 
+Quynn; Carrillo; 37; - ; Carabinero; - ; Dr. Jekyll 
+Marun Nicolás Camilo; Zegpi; 21; Felipe Pezoa - Felipe Quinteros - Erick Romero - Vicente Juárez; Alumno; - ; - 
+Teegan; Petersen; 21; - ; Carabinero; - ; Mr. Hyde 
+Diego; Varas; 22; Raúl Álvarez - Santiago Torres - Jorge Riesco - Jurgen Heysen - Tanya Garrido; Alumno; - ; - 
+Javier Omar; Tramon; 23; Tanya Garrido - Gustavo Prudencio - Felipe Pezoa; Alumno; - ; - 
+Tomás Arturo; Navarrete; 23; Octavio Vera - Thomas Brahm - Fernando Florenzano - Gabriel Lyon - Luis Leiva; Alumno; - ; - 
+Octavio; Vera; 27; - ; Vendedor; Snack ; - 
+Alejandro; Kaminetzky; 24; Thomas Brahm - Raúl Álvarez - Tanya Garrido - Felipe Quinteros - José Manuel Larraín - Germán Contreras; Funcionario; - ; - 
+Ignacio Nicolas; Madariaga; 23; Germán Contreras - Vicente Valencia - Tanya Garrido - Francesca Lucchini - Jessica Hormazabal - Santiago Torres - Gabriel Lyon; Alumno; - ; - 
+Justin; Frederick; 39; - ; Carabinero; - ; Mr. Hyde 
+Denisse Vaitiare; Ogaz; 21; Thomas Brahm - Felipe Quinteros - Bastián Mavrakis - Vicente Juárez; Alumno; - ; - 
+Alberto; Castro; 24; Daniela Flores - Gabriel Lyon - Fernando Florenzano - Octavio Vera - Ignacio Acevedo - Jorge Riesco; Alumno; - ; - 
+Sebastián Ignacio; Calderón; 24; Patricio Diaz - Daniela Flores - Gabriel Lyon; Alumno; - ; - 
+Cristóbal Ignacio; Rey; 21; Gustavo Prudencio - Sebastian Cruz - Francesca Lucchini; Alumno; - ; - 
+Sarah Virginia; Everke; 24; Fernando Florenzano - Felipe Pezoa - Vicente Juárez - Ignacio Acevedo - Francesca Lucchini; Alumno; - ; - 
+Marcelo Ignacio; Escudero; 23; Octavio Vera - Felipe Pezoa - Felipe Quinteros - Daniela Flores - Tanya Garrido - Santiago Torres - Jurgen Heysen; Alumno; - ; - 
+Sebastián Ignacio; Carreño; 20; Erick Romero - Felipe Pezoa - Hans Lobel - Octavio Vera; Alumno; - ; - 
+Fernando; Florenzano; 19; - ; Vendedor; China ; - 
+Francisco Javier; Barros; 23; Jorge Riesco - Raúl Álvarez - Germán Contreras - Vicente Valencia - Tanya Garrido; Alumno; - ; - 
+Sebastián Antonio; Sotomayor; 20; Fernando Florenzano - Jorge Riesco - Germán Contreras - Emilio Gabriele; Alumno; - ; - 
+Moises Matias; Saavedra; 23; Octavio Vera - Jurgen Heysen - Raúl Álvarez - Jessica Hormazabal; Alumno; - ; - 
+Vicente; Valencia; 36; - ; Vendedor; Mexicana ; - 
+Werner Alexander; Knaudt; 24; Erick Romero - Jessica Hormazabal - Luis Leiva - Fernando Florenzano; Alumno; - ; - 
+Josefina; Bengoa; 23; Santiago Torres - Daniela Flores - Bastián Mavrakis - Gustavo Prudencio - Patricio Diaz; Alumno; - ; - 
+Stephanie; Chau; 29; Sebastian Cruz - Octavio Vera - Hugo Navarrete - Jessica Hormazabal - Fernando Florenzano - Francesca Lucchini; Funcionario; - ; - 
+Dana; Sloan; 27; - ; Carabinero; - ; Dr. Jekyll 
+Hernán; Valdivieso; 37; Bastián Mavrakis - José Manuel Larraín - Hans Lobel - Francesca Lucchini - Jurgen Heysen - Patricio Diaz - Vicente Valencia; Funcionario; - ; - 
+Felipe; Quinteros; 35; - ; Vendedor; Mexicana ; - 
+Camilo Ignacio; Berríos; 21; Raúl Álvarez - Francesca Lucchini - Camilo López - Patricio Diaz - Vicente Juárez - Thomas Brahm - Erick Romero; Alumno; - ; - 
+Felipe Carlos; Jiménez; 21; Patricio Diaz - Felipe Pezoa - Gustavo Prudencio; Alumno; - ; - 
+María Josefina; Alliende; 24; Gabriel Lyon - Camilo López - Isaac Carrera - Tanya Garrido; Alumno; - ; - 
+Dora; Mcpherson; 27; - ; Carabinero; - ; Dr. Jekyll 
+Sterling; Archer; 34; Fernando Florenzano - Thomas Brahm - Hans Lobel - Francesca Lucchini - Daniela Flores - Sebastian Cruz - Emilio Gabriele; Funcionario; - ; - 
+Tomás Andrés; Marín; 20; Santiago Torres - Gustavo Prudencio - Raúl Álvarez - Gabriel Lyon - Patricio Diaz - Daniela Flores - Jessica Hormazabal; Alumno; - ; - 
+Enrique; Waugh; 24; Jurgen Heysen - Sebastian Cruz - Thomas Brahm; Alumno; - ; - 
+Carla Daniela; Lepe; 24; Tanya Garrido - Jurgen Heysen - Jessica Hormazabal - Daniela Flores - Sebastian Cruz - Felipe Pezoa - Francesca Lucchini; Alumno; - ; - 
+Cristobal Andres; Espinoza; 24; Santiago Torres - Raúl Álvarez - Hans Lobel; Alumno; - ; - 
+Pablo Antonio; Barría; 23; Jurgen Heysen - Gabriel Lyon - Ignacio Acevedo - Jessica Hormazabal - Daniela Flores - Luis Leiva; Alumno; - ; - 
+Florencia; Barrios; 27; Sebastian Cruz - Emilio Gabriele - Vicente Valencia; Funcionario; - ; - 
+Cristobal; Ilabaca; 23; Germán Contreras - Octavio Vera - Felipe Pezoa - Camilo López - Jessica Hormazabal - Santiago Torres; Alumno; - ; - 
+Vicente Javier; Aguilera; 21; Bastián Mavrakis - Felipe Pezoa - Daniela Flores; Alumno; - ; - 
+Maximiliano Andres; Mardones; 20; Thomas Brahm - Hugo Navarrete - Germán Contreras; Alumno; - ; - 
+Jurgen; Heysen; 26; - ; Vendedor; Snack ; - 
+Dieter; West; 20; - ; Carabinero; - ; Dr. Jekyll 
+Francisco José; Araneda; 24; Tanya Garrido - Daniela Flores - Sebastian Cruz - Santiago Torres; Alumno; - ; - 
+Matías Felipe; Bruna; 22; Sebastian Cruz - Fernando Florenzano - Vicente Valencia - Erick Romero - Felipe Pezoa - Octavio Vera; Alumno; - ; - 
+Andrés; García De La Huerta; 24; Thomas Brahm - Felipe Quinteros - Hugo Navarrete; Alumno; - ; - 
+Fernando; Hurtado; 24; Gustavo Prudencio - Thomas Brahm - Erick Romero - Luis Leiva - José Manuel Larraín - Hugo Navarrete; Alumno; - ; - 
+Diego; Molina; 21; Isaac Carrera - Raúl Álvarez - Santiago Torres; Alumno; - ; - 
+Andrés; Fernández; 39; Camilo López - Francesca Lucchini - Hugo Navarrete; Funcionario; - ; - 
+﻿Jesús; De Nazaret; 38; Germán Contreras - Patricio Diaz - Hans Lobel - Raúl Álvarez - Hugo Navarrete - Isaac Carrera; Funcionario; - ; - 
+Pablo Andres; Torres; 22; Felipe Pezoa - Patricio Diaz - Octavio Vera - Jessica Hormazabal - Thomas Brahm - Jorge Riesco - Vicente Valencia; Alumno; - ; - 
+Luna ; Lovegood; 25; Ignacio Acevedo - Patricio Diaz - Emilio Gabriele - Germán Contreras - Gabriel Lyon; Funcionario; - ; - 
+Tomás Andrés; Valenzuela; 22; Santiago Torres - Sebastian Cruz - Raúl Álvarez - José Manuel Larraín - Ignacio Acevedo - Tanya Garrido - Felipe Pezoa; Alumno; - ; - 
+Hakalamax; Atalapastruka; 38; Raúl Álvarez - Bastián Mavrakis - Daniela Flores - Santiago Torres; Funcionario; - ; - 
+Ivania; Donoso; 30; Daniela Flores - Vicente Valencia - Germán Contreras; Funcionario; - ; - 
+Frodo; Baggins; 29; Erick Romero - Ignacio Acevedo - Bastián Mavrakis - Fernando Florenzano - Sebastian Cruz - Emilio Gabriele; Funcionario; - ; - 
+Ricardo Esteban; Schilling; 21; Patricio Diaz - Luis Leiva - Daniela Flores - Vicente Juárez - Isaac Carrera; Alumno; - ; - 
+Jorge Alfredo; Requena; 21; Thomas Brahm - Fernando Florenzano - Jorge Riesco - Daniela Flores - Camilo López - Patricio Diaz; Alumno; - ; - 
+Constanza Sofía; Ravanal; 23; Sebastian Cruz - Erick Romero - Luis Leiva; Alumno; - ; - 
+Matias Ignacio; Galleguillos; 20; Francesca Lucchini - Luis Leiva - Vicente Juárez - Jurgen Heysen - Raúl Álvarez - Thomas Brahm - Jorge Riesco; Alumno; - ; - 
+Vicente Ignacio; Pardo; 21; Octavio Vera - Gustavo Prudencio - Fernando Florenzano - Vicente Valencia - Isaac Carrera - Thomas Brahm; Alumno; - ; - 
+Macarena Monica; Peña; 22; José Manuel Larraín - Patricio Diaz - Felipe Quinteros - Tanya Garrido; Alumno; - ; - 
+Benjamin Ivan; Dominguez; 23; Gustavo Prudencio - Hans Lobel - Camilo López - Santiago Torres; Alumno; - ; - 
+Pilar Ximena; Parga; 22; Hans Lobel - Luis Leiva - Camilo López - Daniela Flores - Jorge Riesco; Alumno; - ; - 
+Juan Pablo; Moraga; 24; Santiago Torres - Bastián Mavrakis - Germán Contreras; Alumno; - ; - 
+Tien; Villalobos; 20; Jurgen Heysen - Felipe Quinteros - Jessica Hormazabal - Ignacio Acevedo - Emilio Gabriele - Hugo Navarrete - Jorge Riesco; Alumno; - ; - 
+Lucas; Valenzuela; 22; Sebastian Cruz - Raúl Álvarez - Daniela Flores; Funcionario; - ; - 
+José Valentín; Lara; 22; Emilio Gabriele - Jorge Riesco - Isaac Carrera - Bastián Mavrakis - Octavio Vera - Tanya Garrido; Alumno; - ; - 
+Felipe Javier; Álvarez; 22; Hugo Navarrete - José Manuel Larraín - Jorge Riesco - Emilio Gabriele - Vicente Valencia - Sebastian Cruz - Gustavo Prudencio; Alumno; - ; - 
+Sebastian Andres; Velozo; 20; Jurgen Heysen - Santiago Torres - Francesca Lucchini - Camilo López - Tanya Garrido - Jessica Hormazabal - Jorge Riesco; Alumno; - ; - 
+Santiago; Torres; 19; - ; Vendedor; Snack ; - 
+Henry; Boys; 37; José Manuel Larraín - Francesca Lucchini - Emilio Gabriele - Sebastian Cruz - Santiago Torres - Felipe Quinteros - Daniela Flores; Funcionario; - ; - 
+Benjamin Ian; Earle; 23; Octavio Vera - Luis Leiva - Felipe Pezoa - Hugo Navarrete - Felipe Quinteros - Jurgen Heysen; Alumno; - ; - 
+Nicolas Raul; Riquelme; 23; Ignacio Acevedo - Jurgen Heysen - Hugo Navarrete; Alumno; - ; - 
+Mauricio Jose; Valdivia; 21; Fernando Florenzano - Camilo López - Bastián Mavrakis; Alumno; - ; - 
+Beatriz Elisa; Gaete; 20; Octavio Vera - Luis Leiva - Jurgen Heysen - Gustavo Prudencio - Felipe Pezoa - Germán Contreras - Gabriel Lyon; Alumno; - ; - 
+Nicolás; Court; 20; Fernando Florenzano - Camilo López - Bastián Mavrakis - José Manuel Larraín - Thomas Brahm - Ignacio Acevedo - Tanya Garrido; Alumno; - ; - 
+Marcelo; Lagos; 34; Fernando Florenzano - Vicente Juárez - Tanya Garrido - Luis Leiva - Octavio Vera; Funcionario; - ; - 
+Nicolas Alejandro; Vargas; 24; Bastián Mavrakis - Daniela Flores - Thomas Brahm - Jorge Riesco; Alumno; - ; - 
+Patricia Alejandra; Silva; 22; Luis Leiva - Daniela Flores - José Manuel Larraín; Alumno; - ; - 
+Matías Nicolás; Reyes; 24; Francesca Lucchini - Germán Contreras - Erick Romero; Alumno; - ; - 
+Eitan; Dvorquez; 22; Jorge Riesco - Vicente Valencia - Thomas Brahm - Tanya Garrido; Alumno; - ; - 
+Matías Ignacio; Echeverría; 24; Francesca Lucchini - José Manuel Larraín - Jorge Riesco; Alumno; - ; - 
+Dante Ricardo; Pinto; 22; Patricio Diaz - Luis Leiva - Tanya Garrido - Jorge Riesco - Vicente Juárez - José Manuel Larraín; Alumno; - ; - 
+Francesca; Lucchini; 29; - ; Vendedor; Snack ; - 
+Dinko Fernando; Yoma; 23; Hugo Navarrete - Jessica Hormazabal - Santiago Torres - José Manuel Larraín - Thomas Brahm - Hans Lobel; Alumno; - ; - 
+Paula; Salvo; 36; Germán Contreras - Sebastian Cruz - Octavio Vera; Funcionario; - ; - 
+Pablo Esteban; Gajardo; 22; Hugo Navarrete - Erick Romero - Daniela Flores; Alumno; - ; - 
+Carla Javiera; Peñailillo; 20; Luis Leiva - Jurgen Heysen - Gustavo Prudencio - Isaac Carrera - Jorge Riesco; Alumno; - ; - 
+Julio Ignacio; Huerta; 22; Germán Contreras - Raúl Álvarez - Camilo López - Santiago Torres; Alumno; - ; - 
+Jan Paul; Siegel; 23; Luis Leiva - Francesca Lucchini - Felipe Quinteros - Hans Lobel - Emilio Gabriele; Alumno; - ; - 
+Emilio; Gabriele; 19; - ; Vendedor; Mexicana ; - 
+Paula Isabel; Díaz; 22; Hans Lobel - Gabriel Lyon - Gustavo Prudencio - Jurgen Heysen - Sebastian Cruz; Alumno; - ; - 
+Mitchell Ignacio; Vera; 20; Francesca Lucchini - Gabriel Lyon - Felipe Quinteros - José Manuel Larraín - Camilo López; Alumno; - ; - 
+Daniel Alejandro; Vives; 20; José Manuel Larraín - Gabriel Lyon - Tanya Garrido - Germán Contreras - Vicente Juárez - Bastián Mavrakis - Thomas Brahm; Alumno; - ; - 
+José; Campino; 20; Felipe Pezoa - Jurgen Heysen - Santiago Torres - Daniela Flores; Alumno; - ; - 
+Hedley; Stafford; 31; - ; Carabinero; - ; Dr. Jekyll 
+Barbara Mariana; Espinoza; 24; Gustavo Prudencio - Gabriel Lyon - José Manuel Larraín - Jessica Hormazabal - Jorge Riesco - Hans Lobel - Emilio Gabriele; Alumno; - ; - 
+Antonio Alejandro; Muñoz; 21; Francesca Lucchini - Fernando Florenzano - Vicente Juárez - Gabriel Lyon - Hans Lobel - Santiago Torres; Alumno; - ; - 
+Yerko Antonio; Chávez; 21; Francesca Lucchini - Jessica Hormazabal - Camilo López - Octavio Vera; Alumno; - ; - 
+Gregory Kees; Schuit; 21; Fernando Florenzano - Patricio Diaz - Bastián Mavrakis - Francesca Lucchini; Alumno; - ; - 
+Diego Andrés; Alfaro; 23; Fernando Florenzano - Francesca Lucchini - Luis Leiva - Felipe Quinteros - Germán Contreras - Jurgen Heysen; Alumno; - ; - 
+Federico Andres; Taladriz; 21; Erick Romero - Thomas Brahm - Patricio Diaz - Gustavo Prudencio - Hugo Navarrete; Alumno; - ; - 
+; ; 21; Sebastian Cruz - Erick Romero - Jorge Riesco - Gabriel Lyon - Emilio Gabriele; Alumno; - ; - 
+Sebastian; Cruz; 26; - ; Vendedor; Mexicana ; - 
+Noemí Isabo; Crosby; 21; Thomas Brahm - Raúl Álvarez - Emilio Gabriele - Octavio Vera; Alumno; - ; - 
+Jeremías Andrés; Molina; 20; Emilio Gabriele - Hugo Navarrete - Jessica Hormazabal; Alumno; - ; - 
+Javier Ignacio; Ruiz; 20; Santiago Torres - Gustavo Prudencio - Isaac Carrera; Alumno; - ; - 
+Cristóbal Jesús; Muñoz; 23; Gustavo Prudencio - Erick Romero - Daniela Flores - Felipe Pezoa - José Manuel Larraín - Isaac Carrera - Sebastian Cruz; Alumno; - ; - 
+Gonzalo; Bello; 21; Felipe Pezoa - Germán Contreras - Hans Lobel; Alumno; - ; - 
+Pablo Ignacio; Olea; 24; Jorge Riesco - Raúl Álvarez - Patricio Diaz - Octavio Vera - Luis Leiva; Alumno; - ; - 
+Wenyi; He; 24; Fernando Florenzano - Erick Romero - Sebastian Cruz - Tanya Garrido - Hans Lobel - Vicente Valencia - José Manuel Larraín; Alumno; - ; - 
+Vicente Nicolás; Díaz; 23; Hugo Navarrete - Thomas Brahm - José Manuel Larraín - Octavio Vera; Alumno; - ; - 
+Leah; Blackwell; 29; - ; Carabinero; - ; Mr. Hyde 
+Maximiliano Eduardo; Santamaría; 24; Jurgen Heysen - Bastián Mavrakis - Octavio Vera; Alumno; - ; - 
+Felipe Ignacio; Hanckes; 23; Gustavo Prudencio - Francesca Lucchini - Erick Romero; Alumno; - ; - 
+Javiera Alejandra; Ferrada; 22; Luis Leiva - Thomas Brahm - Emilio Gabriele - Felipe Quinteros - Jurgen Heysen - Felipe Pezoa; Alumno; - ; - 
+Luis; Leiva; 26; - ; Vendedor; China ; - 
+Tomas; Rivera; 24; Daniela Flores - Hans Lobel - Felipe Quinteros - Ignacio Acevedo - Tanya Garrido; Alumno; - ; - 
+Juan Guillermo; Espinosa; 21; Luis Leiva - Daniela Flores - Ignacio Acevedo - Jessica Hormazabal; Alumno; - ; - 
+Sebastian Ignacio; Montoya; 22; Camilo López - Fernando Florenzano - Patricio Diaz - Octavio Vera - Ignacio Acevedo - Jessica Hormazabal; Alumno; - ; - 
+Felipe Eduardo; Apablaza; 20; Hugo Navarrete - Germán Contreras - Jurgen Heysen - Felipe Quinteros - Bastián Mavrakis - Sebastian Cruz - Felipe Pezoa; Alumno; - ; - 
+Norman Andres; Oliden; 24; Germán Contreras - Francesca Lucchini - Hugo Navarrete - Vicente Valencia; Alumno; - ; - 
+Diego Eduardo; Pedraza; 22; Thomas Brahm - Camilo López - Santiago Torres - Octavio Vera - Francesca Lucchini - Raúl Álvarez; Alumno; - ; - 
+Javier Eduardo; Reyes; 23; Raúl Álvarez - Santiago Torres - Luis Leiva - Vicente Valencia; Alumno; - ; - 
+Javier Ignacio; Paravich; 23; Bastián Mavrakis - Camilo López - Jurgen Heysen - Felipe Quinteros - Jorge Riesco - Francesca Lucchini - Hans Lobel; Alumno; - ; - 
+Germán; Contreras; 35; - ; Vendedor; China ; - 
+Valentina Paz; Barrera; 23; Hugo Navarrete - Jessica Hormazabal - Erick Romero; Alumno; - ; - 
+Joaquin; Tagle; 38; Hugo Navarrete - Ignacio Acevedo - Patricio Diaz - Daniela Flores - Luis Leiva; Funcionario; - ; - 
+Henry; Blair; 23; Patricio Diaz - Luis Leiva - Felipe Quinteros; Alumno; - ; - 
+Nicolás Alejandro; Parraguez; 21; Erick Romero - Ignacio Acevedo - Germán Contreras - José Manuel Larraín - Bastián Mavrakis - Emilio Gabriele; Alumno; - ; - 
+Omar Eduardo; Bravo; 20; Daniela Flores - Germán Contreras - Hans Lobel - Hugo Navarrete - Camilo López - Vicente Valencia; Alumno; - ; - 
+Leslie; Wilkins; 27; - ; Carabinero; - ; Mr. Hyde 
+Nicolás; Balbontin; 39; Gabriel Lyon - Isaac Carrera - Santiago Torres; Funcionario; - ; - 
+Matias Esteban; Coloma; 22; Sebastian Cruz - Hans Lobel - Raúl Álvarez - Octavio Vera - Vicente Valencia - Vicente Juárez - Ignacio Acevedo; Alumno; - ; - 
+Víctor Ariel; Marambio; 22; Tanya Garrido - Raúl Álvarez - Erick Romero - Thomas Brahm - Bastián Mavrakis; Alumno; - ; - 
+Victoria Sofia; Matthews; 21; Jurgen Heysen - Gabriel Lyon - Jessica Hormazabal - Patricio Diaz - Vicente Valencia - Germán Contreras; Alumno; - ; - 
+Vicente Ignacio; Muñoz; 22; Patricio Diaz - Gabriel Lyon - Jorge Riesco - Isaac Carrera; Alumno; - ; - 
+Thomas; Brahm; 24; - ; Vendedor; Mexicana ; - 
+Raúl; Álvarez; 30; - ; Vendedor; Mexicana ; - 
+Luis Alberto; Loyola; 20; Raúl Álvarez - Felipe Pezoa - Jessica Hormazabal - Sebastian Cruz - Erick Romero - Isaac Carrera - Germán Contreras; Alumno; - ; - 
+Nicolas Ignacio; Morales; 24; Ignacio Acevedo - Jorge Riesco - Jessica Hormazabal - Gustavo Prudencio - Felipe Pezoa; Alumno; - ; - 
+Isaac; Carrera; 35; - ; Vendedor; Mexicana ; - 
+Jessica; Hormazabal; 33; - ; Vendedor; Snack ; - 
+Sebastian; Behrmann; 24; Jurgen Heysen - Emilio Gabriele - Raúl Álvarez; Alumno; - ; - 
+Javiera Andrea; Neira; 21; Tanya Garrido - Octavio Vera - Felipe Quinteros - Sebastian Cruz - Daniela Flores; Alumno; - ; - 
+Chafic Salvador; Abumohor; 20; Jorge Riesco - Hans Lobel - Camilo López - Felipe Pezoa - Raúl Álvarez; Alumno; - ; - 
+Daniel; Zupeuc; 23; Camilo López - Isaac Carrera - Fernando Florenzano - Gabriel Lyon; Alumno; - ; - 
+Joaquín Alberto; Bugmann; 23; Felipe Quinteros - Bastián Mavrakis - Daniela Flores - Thomas Brahm; Alumno; - ; - 
