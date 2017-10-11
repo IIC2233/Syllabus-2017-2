@@ -1,27 +1,27 @@
-Producto; Tipo; Precio; Calorias; Tasa Putrefacción; Vendido en
-Guagitas; Fondo; 138; 1103; 40; Puesto de comida mexicana
-Lays; Snack; 164; 1729; 29; Puesto de snacks
-Alfajores; Snack; 28; 1620; 51; Puesto de snacks
-Pastel de Papas; Fondo; 17; 1539; 26; Puesto de comica china
-Empolvado de Antofagasta; Snack; 100; 969; 10; Puesto de snacks
-PizzaLasagna; Fondo; 65; 369; 68; Puesto de comida mexicana
-M&M; Snack; 135; 1932; 11; Puesto de snacks
-Torta; Snack; 38; 703; 3; Puesto de snacks
-Enrejados de chocolate; Snack; 146; 1508; 33; Puesto de snacks
-Cereal con yogurt; Snack; 25; 1205; 36; Puesto de snacks
-Doritos; Snack; 118; 1758; 25; Puesto de snacks
-Pavo Relleno; Fondo; 171; 192; 53; Puesto de comica china
-Top de chocolate; Snack; 89; 851; 4; Puesto de snacks
-DCCola; Snack; 51; 1394; 14; Puesto de snacks
-Mani; Snack; 179; 780; 40; Puesto de snacks
-Pollo Mongoliano; Fondo; 282; 751; 8; Puesto de comica china
-Kebabs; Fondo; 259; 1331; 2; Puesto de comida mexicana
-Almendras; Snack; 151; 117; 53; Puesto de snacks
-Maruchan; Fondo; 248; 1710; 6; Puesto de comica china
-Pocky; Snack; 129; 1924; 34; Puesto de snacks
-Chocolate; Snack; 30; 1416; 12; Puesto de snacks
-Tacos; Fondo; 133; 1337; 37; Puesto de comica china
-Jicaletas; Fondo; 24; 439; 80; Puesto de comida mexicana
-Quequitos Magicos; Snack; 140; 1993; 32; Puesto de snacks
-Falafel; Fondo; 96; 828; 78; Puesto de comida mexicana
-Carne Mongoliana; Fondo; 158; 878; 15; Puesto de comica china
+Producto; Tipo; Precio, Calorias; Tasa Putrefacción; Vendido en
+Pollo Mongoliano; Fondo; 88; 769; 50; Puesto de comida mexicana
+Chocolate; Snack; 107; 1419; 27; Puesto de snacks
+DCCola; Snack; 71; 703; 8; Puesto de snacks
+Guagitas; Fondo; 78; 1255; 119; Puesto de comida mexicana
+Maruchan; Fondo; 297; 352; 111; Puesto de comida mexicana
+Kebabs; Fondo; 136; 1553; 53; Puesto de comida mexicana
+Empolvado de Antofagasta; Snack; 141; 1398; 43; Puesto de snacks
+Falafel; Fondo; 219; 822; 45; Puesto de comida china
+Pocky; Snack; 127; 1264; 50; Puesto de snacks
+Doritos; Snack; 53; 1879; 23; Puesto de snacks
+Almendras; Snack; 68; 580; 4; Puesto de snacks
+Cereal con yogurt; Snack; 47; 404; 30; Puesto de snacks
+Enrejados de chocolate; Snack; 155; 1581; 57; Puesto de snacks
+Pavo Relleno; Fondo; 278; 1104; 89; Puesto de comida mexicana
+Torta; Snack; 41; 1680; 4; Puesto de snacks
+PizzaLasagna; Fondo; 122; 943; 9; Puesto de comida china
+Alfajores; Snack; 52; 1041; 19; Puesto de snacks
+Quequitos Magicos; Snack; 152; 1578; 48; Puesto de snacks
+Mani; Snack; 142; 788; 41; Puesto de snacks
+Tacos; Fondo; 13; 1257; 62; Puesto de comida mexicana
+Pastel de Papas; Fondo; 152; 760; 42; Puesto de comida mexicana
+Jicaletas; Fondo; 299; 872; 3; Puesto de comida mexicana
+M&M; Snack; 53; 502; 26; Puesto de snacks
+Top de chocolate; Snack; 83; 1150; 1; Puesto de snacks
+Carne Mongoliana; Fondo; 228; 728; 14; Puesto de comida mexicana
+Lays; Snack; 43; 1412; 36; Puesto de snacks
