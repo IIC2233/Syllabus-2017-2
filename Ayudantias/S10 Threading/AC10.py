@@ -85,11 +85,11 @@ class Laberinto:
         # Este será el thread encargado de la llegada de personas.
         while True:
             # El tiempo entre apariciones distribuye Exp(1/5).
-            time.sleep(random.expovariate(1 / 3))
+            time.sleep(random.expovariate(1 / 5))
             persona = Persona(self.inicio, self.final.id)
             self.personas.append(persona)
             poison_thread = threading.Thread(target=Laberinto.damage_person,
-                                             args=(persona,))
+                                             args=(persona,), daemon=True)
             poison_thread.start()
 
     @staticmethod
@@ -157,3 +157,4 @@ if __name__ == '__main__':
     # Comenzamos el thread que revisa si hay ganadores.
     watch = threading.Thread(target=laberinto.ver_ganadores)
     watch.start()
+
