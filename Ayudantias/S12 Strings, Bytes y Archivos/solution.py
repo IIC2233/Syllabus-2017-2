@@ -49,6 +49,3 @@ def fix_file(corrupted_file_path, fixed_file_path):
 
 if __name__ == '__main__':
     fix_file('encoded.file', 'fixed_file.jpg')
-
-
-
