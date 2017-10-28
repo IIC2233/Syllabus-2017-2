@@ -1,0 +1,83 @@
+C:\Users\user\Anaconda3\python.exe C:/Users/user/Desktop/2017-2/Avanzada/Private/Tareas/T03/solucion_parcial.py
+Soy Jesús De Nazaret
+Caracteristicas 
+ {'Altura': 1.82, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Recta', 'Pies': 39.833333333333336, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Guatón Parrillero', 'Vision': 'Daltonismo, Miopia'}
+ 
+ ['albina', 'Mediterránea', 'Estadounidense']
+Soy Rick Sánchez
+Caracteristicas 
+ {'Altura': 1.8900000000000001, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Recta', 'Pies': 48.0, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+ 
+ ['albina', 'Mediterránea', 'Africana']
+Soy Tomas Salvadores
+Caracteristicas 
+ {'Altura': 1.7181818181818183, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Recta', 'Pies': 38.666666666666664, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+ 
+ ['albina', 'Mediterránea']
+Soy Marcelo Lagos
+Caracteristicas 
+ {'Altura': 1.8666666666666667, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Recta', 'Pies': 41.0, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Miopia'}
+ 
+ ['albina', 'Mediterránea']
+Soy Hernán Valdivieso
+Caracteristicas 
+ {'Altura': 1.96, 'Ojos': 'Azules', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Recta', 'Pies': 40.22222222222222, 'Vello': 'Pecho, Axila', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+ 
+ ['albina', 'Mediterránea']
+Soy Alejandro Kaminetzky
+Caracteristicas 
+ {'Altura': 1.5999999999999999, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Albino', 'Nariz': 'Recta', 'Pies': 38.666666666666664, 'Vello': 'Pecho, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+ 
+ ['albina', 'Mediterránea']
+Soy Morty Smith
+Caracteristicas 
+ {'Altura': 1.6333333333333333, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Recta', 'Pies': 44.266666666666666, 'Vello': 'Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Miopia'}
+ 
+ ['albina']
+Soy El Chuña
+Caracteristicas 
+ {'Altura': 1.6916666666666667, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Recta', 'Pies': 44.888888888888886, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': ''}
+ 
+ ['albina', 'Mediterránea']
+Soy Fernando Florenzano
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Recta', 'Pies': 40.0, 'Vello': 'Pecho, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+ 
+ ['Mediterránea']
+Soy Florencia Barrios
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Recta', 'Pies': 42.61538461538461, 'Vello': 'Pecho, Axila', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+ 
+ ['Mediterránea']
+Soy Enrique 7th  El Musculoso
+Caracteristicas 
+ {'Altura': 1.4, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Recta', 'Pies': 38.666666666666664, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+ 
+ ['albina', 'Mediterránea']
+Soy Bastián Mavrakis
+Caracteristicas 
+ {'Altura': 1.68, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Moreno', 'Nariz': 'Recta', 'Pies': 43.33333333333333, 'Vello': 'Axila, Espalda', 'Guata': 'Modelo', 'Vision': 'Miopia'}
+ 
+ ['albina']
+Soy Hugo Navarrete
+Caracteristicas 
+ {'Altura': 1.5866666666666667, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Recta', 'Pies': 34.0, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Mañana empiezo la dieta', 'Vision': 'Daltonismo, Miopia'}
+ 
+ ['Mediterránea']
+Soy Sebastian Cruz
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Cafés', 'Pelo': 'Rubio', 'Piel': 'Moreno', 'Nariz': 'Recta', 'Pies': 38.666666666666664, 'Vello': 'Pecho, Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+ 
+ ['albina']
+Soy Ignacio Acevedo
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Blanco', 'Nariz': 'Recta', 'Pies': 42.16666666666667, 'Vello': 'Axila, Espalda', 'Guata': 'Atleta', 'Vision': 'Daltonismo, Miopia'}
+ 
+ ['albina']
+Soy Hans Lobel
+Caracteristicas 
+ {'Altura': 1.75, 'Ojos': 'Cafés', 'Pelo': 'Negro', 'Piel': 'Negro', 'Nariz': 'Recta', 'Pies': 44.5, 'Vello': 'Axila', 'Guata': 'Mañana empiezo la dieta', 'Vision': ''}
+ 
+ ['albina', 'Africana']
+
+Process finished with exit code 0

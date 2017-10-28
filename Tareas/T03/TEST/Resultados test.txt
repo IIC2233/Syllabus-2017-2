@@ -1,0 +1,189 @@
+--------------- Consulta 1 ---------------
+Enrique 7th  El Musculoso
+problemas de vision: Daltonismo Miopia 
+
+--------------- Consulta 2 ---------------
+Hugo Navarrete
+Altura: 1.5866666666666667
+
+--------------- Consulta 3 ---------------
+Hugo Navarrete
+Color de ojos: Cafes
+
+--------------- Consulta 4 ---------------
+Hugo Navarrete
+Color de pelo: Negro
+
+--------------- Consulta 5 ---------------
+Hugo Navarrete
+Tono de piel: Negro
+
+--------------- Consulta 6 ---------------
+Hugo Navarrete
+Forma de la nariz: Recta
+
+--------------- Consulta 7 ---------------
+Hugo Navarrete
+Tamano de los pies: 34.0
+
+--------------- Consulta 8 ---------------
+Hugo Navarrete
+Donde hay vello corporal: Pecho Axila Espalda 
+
+--------------- Consulta 9 ---------------
+Hugo Navarrete
+Tamano de la guata: Mañana empiezo la dieta
+
+--------------- Consulta 10 ---------------
+Hugo Navarrete
+problemas de vision: Daltonismo Miopia 
+
+--------------- Consulta 11 ---------------
+Alejandro Kaminetzky
+índice de tamaño: 0.451753951453
+
+--------------- Consulta 12 ---------------
+Bastián Mavrakis
+índice de tamaño: 0.269679944985
+
+--------------- Consulta 13 ---------------
+Jesús De Nazaret
+Ascendencia(s): Albina Mediterranea Estadounidense
+
+--------------- Consulta 14 ---------------
+Rick Sánchez
+Ascendencia(s): Albina Mediterranea Africana
+
+--------------- Consulta 15 ---------------
+Los parientes de grado 0 de Hernán Valdivieso son:
+Marcelo Lagos
+
+--------------- Consulta 16 ---------------
+Los parientes de grado 1 de Hernán Valdivieso son:
+Marcelo Lagos
+
+--------------- Consulta 17 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 18 ---------------
+Los parientes de grado n de Hans Lobel son:
+Jesús De Nazaret
+Rick Sánchez
+Fernando Florenzano
+
+--------------- Consulta 19 ---------------
+El Gemelo Genetico de Tomas Salvadores es:
+Marcelo Lagos
+
+--------------- Consulta 20 ---------------
+El Gemelo Genetico de Marcelo Lagos es:
+Hernán Valdivieso
+
+--------------- Consulta 21 ---------------
+Error Bad Request: No es una consulta valida
+
+--------------- Consulta 22 ---------------
+Error Not Found: No son parametros validos
+
+--------------- Consulta 23 ---------------
+Error Not Found: No son parametros validos
+
+--------------- Consulta 24 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 25 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 26 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 27 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 28 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 29 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 30 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 31 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 32 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 33 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 34 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 35 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 36 ---------------
+Error Not Acceptable: La consulta dio un resultado vacio
+
+--------------- Consulta 37 ---------------
+Valor minimo de Color de ojos: Azules
+
+--------------- Consulta 38 ---------------
+Valor minimo de Color de pelo: Rubio
+
+--------------- Consulta 39 ---------------
+Valor minimo de Tono de piel: Albino
+
+--------------- Consulta 40 ---------------
+Valor minimo de Forma de la nariz: Recta
+
+--------------- Consulta 41 ---------------
+Valor minimo de Tamano de los pies: Talla 34.0
+
+--------------- Consulta 42 ---------------
+Valor minimo de Altura: 1.4 m
+
+--------------- Consulta 43 ---------------
+Error Not Found: No son parametros validos
+
+--------------- Consulta 44 ---------------
+Error Not Found: No son parametros validos
+
+--------------- Consulta 45 ---------------
+Error Not Found: No son parametros validos
+
+--------------- Consulta 46 ---------------
+Valor maximo de Color de ojos: Cafes
+
+--------------- Consulta 47 ---------------
+Valor maximo de Color de pelo: Negro
+
+--------------- Consulta 48 ---------------
+Valor maximo de Tono de piel: Moreno
+
+--------------- Consulta 49 ---------------
+Valor maximo de Forma de la nariz: Recta
+
+--------------- Consulta 50 ---------------
+Valor maximo de Tamano de los pies: Talla 48.0
+
+--------------- Consulta 51 ---------------
+Valor maximo de Altura: 1.96 m
+
+--------------- Consulta 52 ---------------
+Error Not Found: No son parametros validos
+
+--------------- Consulta 53 ---------------
+Error Not Found: No son parametros validos
+
+--------------- Consulta 54 ---------------
+Error Not Found: No son parametros validos
+
+--------------- Consulta 55 ---------------
+Valor promedio de Tamano de los pies: Talla 41.16
+
+--------------- Consulta 56 ---------------
+Valor promedio de Altura: 1.7306155303030302 m
+
